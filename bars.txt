@@ -1,0 +1,1281 @@
+The Royal Exchange|Financial District|301 Sacramento St|San Francisco|CA|94111|(415) 956-1710|Sports Bars, Burgers
+Fly Bar|Alamo Square, NoPa|762 Divisadero St|San Francisco|CA|94117|(415) 931-4359|Bars
+Madrone Art Bar|Alamo Square, NoPa|500 Divisadero St|San Francisco|CA|94117|(415) 241-0202|Lounges, Dance Clubs
+McAllister Street Bar|Alamo Square|1302 Mcallister St|San Francisco|CA|94115||Cocktail Bars
+Tsk/tsk|Alamo Square|528 Divisadero St|San Francisco|CA|94117|(415) 522-0800|Bars
+Catameran|Alamo Square, Hayes Valley|625 Buchannan St|San Francisco|CA|94102|(415) 402-7816|Bars
+Shabu Club|Inner Richmond|951 Clement St|San Francisco|CA|94118|(415) 742-5265|Japanese, Bars
+Astro Wine Nights SF|Anza Vista, Western Addition|Divisadero and Eddy|San Francisco|CA|94115|(978) 771-9917|Party & Event Planning, Bars
+w xyz bar|Bayview-Hunters Point|401 E Millbrae Ave|Millbrae|CA|94030|(650) 443-5500|Lounges
+Speakeasy Ales & Lagers|Bayview-Hunters Point|1195 Evans Ave|San Francisco|CA|94124|(415) 642-3371|Bars
+Bonanza Restaurant|Bayview-Hunters Point|16 Toland St|San Francisco|CA|94124|(415) 647-2227|Dive Bars, Pool Halls
+My Way|Bayview-Hunters Point|5251 Third Street|San Francisco|CA|94124|(415) 822-4014|Lounges
+w xyz bar|Bernal Heights|401 E Millbrae Ave|Millbrae|CA|94030|(650) 443-5500|Lounges
+Holy Water|Bernal Heights|309 Cortland Ave|San Francisco|CA|94110||Bars
+Wild Side West|Bernal Heights|424 Cortland Ave|San Francisco|CA|94110|(415) 647-3099|Gay Bars
+Knockout|Bernal Heights, Mission|3223 Mission St|San Francisco|CA|94110|(415) 550-6994|Dive Bars
+El Rio|Bernal Heights, Mission|3158 Mission St|San Francisco|CA|94110|(415) 282-3325|Music Venues
+Virgil’s Sea Room|Bernal Heights, Mission|3152 Mission St|San Francisco|CA|94110|(415) 829-2233|Cocktail Bars
+Rock Bar|Bernal Heights, Mission|80 29th St|San Francisco|CA|94110|(415) 550-6664|Bars
+Noeteca|Bernal Heights, Mission|1551 Dolores St|San Francisco|CA|94110|(415) 824-5524|Wine Bars
+The Lucky Horseshoe|Bernal Heights|453 Cortland Ave|San Francisco|CA|94110|(415) 282-3456|Music Venues
+Iron & Gold|Bernal Heights|3187 Mission St|San Francisco|CA|94110|(415) 824-1447|Bars
+St Marys Pub|Bernal Heights|3845 Mission St|San Francisco|CA|94110|(415) 529-1325|Dive Bars
+w xyz bar|Bernal Heights|401 E Millbrae Ave|Millbrae|CA|94030|(650) 443-5500|Lounges
+Holy Water|Bernal Heights|309 Cortland Ave|San Francisco|CA|94110||Bars
+Wild Side West|Bernal Heights|424 Cortland Ave|San Francisco|CA|94110|(415) 647-3099|Gay Bars
+Knockout|Bernal Heights, Mission|3223 Mission St|San Francisco|CA|94110|(415) 550-6994|Dive Bars
+El Rio|Bernal Heights, Mission|3158 Mission St|San Francisco|CA|94110|(415) 282-3325|Music Venues
+Virgil’s Sea Room|Bernal Heights, Mission|3152 Mission St|San Francisco|CA|94110|(415) 829-2233|Cocktail Bars
+Rock Bar|Bernal Heights, Mission|80 29th St|San Francisco|CA|94110|(415) 550-6664|Bars
+Noeteca|Bernal Heights, Mission|1551 Dolores St|San Francisco|CA|94110|(415) 824-5524|Wine Bars
+The Lucky Horseshoe|Bernal Heights|453 Cortland Ave|San Francisco|CA|94110|(415) 282-3456|Music Venues
+Iron & Gold|Bernal Heights|3187 Mission St|San Francisco|CA|94110|(415) 824-1447|Bars
+St Marys Pub|Bernal Heights|3845 Mission St|San Francisco|CA|94110|(415) 529-1325|Dive Bars
+w xyz bar|Bernal Heights|401 E Millbrae Ave|Millbrae|CA|94030|(650) 443-5500|Lounges
+Holy Water|Bernal Heights|309 Cortland Ave|San Francisco|CA|94110||Bars
+Wild Side West|Bernal Heights|424 Cortland Ave|San Francisco|CA|94110|(415) 647-3099|Gay Bars
+Knockout|Bernal Heights, Mission|3223 Mission St|San Francisco|CA|94110|(415) 550-6994|Dive Bars
+El Rio|Bernal Heights, Mission|3158 Mission St|San Francisco|CA|94110|(415) 282-3325|Music Venues
+Virgil’s Sea Room|Bernal Heights, Mission|3152 Mission St|San Francisco|CA|94110|(415) 829-2233|Cocktail Bars
+Rock Bar|Bernal Heights, Mission|80 29th St|San Francisco|CA|94110|(415) 550-6664|Bars
+Noeteca|Bernal Heights, Mission|1551 Dolores St|San Francisco|CA|94110|(415) 824-5524|Wine Bars
+The Lucky Horseshoe|Bernal Heights|453 Cortland Ave|San Francisco|CA|94110|(415) 282-3456|Music Venues
+Iron & Gold|Bernal Heights|3187 Mission St|San Francisco|CA|94110|(415) 824-1447|Bars
+St Marys Pub|Bernal Heights|3845 Mission St|San Francisco|CA|94110|(415) 529-1325|Dive Bars
+McCarthy’s|West Portal|46 West Portal Ave|San Francisco|CA|94127|(415) 564-1412|Sports Bars
+Last Call Bar|Castro|3988 18th St|San Francisco|CA|94114|(415) 861-1310|Gay Bars, Pubs
+Cervecería de Mateveza|Castro|3801 18th St|San Francisco|CA|94114|(415) 212-8412|Bars
+Blush!|Castro|476 Castro St|San Francisco|CA|94114|(415) 558-0893|Wine Bars
+The Mix|Castro|4086 18th St|San Francisco|CA|94114|(415) 431-8616|Gay Bars
+Swirl on Castro|Castro|572 Castro St|San Francisco|CA|94114|(415) 864-2262|Beer, Wine & Spirits
+Hi Tops|Castro|2247 Market St|San Francisco|CA|94114|(415) 551-2500|Sports Bars, Gay Bars
+Pilsner Inn|Castro|225 Church St|San Francisco|CA|94114|(415) 621-7058|Gay Bars
+Twin Peaks Tavern|Castro|401 Castro St|San Francisco|CA|94114|(415) 864-9470|Gay Bars
+440 Castro|Castro|440 Castro St|San Francisco|CA|94114|(415) 621-8732|Gay Bars
+SF Badlands|Castro|4121 18th St|San Francisco|CA|94114|(415) 626-9320|Dance Clubs
+McCarthy’s|West Portal|46 West Portal Ave|San Francisco|CA|94127|(415) 564-1412|Sports Bars
+Last Call Bar|Castro|3988 18th St|San Francisco|CA|94114|(415) 861-1310|Gay Bars, Pubs
+Cervecería de Mateveza|Castro|3801 18th St|San Francisco|CA|94114|(415) 212-8412|Bars
+Blush!|Castro|476 Castro St|San Francisco|CA|94114|(415) 558-0893|Wine Bars
+The Mix|Castro|4086 18th St|San Francisco|CA|94114|(415) 431-8616|Gay Bars
+Swirl on Castro|Castro|572 Castro St|San Francisco|CA|94114|(415) 864-2262|Beer, Wine & Spirits
+Hi Tops|Castro|2247 Market St|San Francisco|CA|94114|(415) 551-2500|Sports Bars, Gay Bars
+Pilsner Inn|Castro|225 Church St|San Francisco|CA|94114|(415) 621-7058|Gay Bars
+Twin Peaks Tavern|Castro|401 Castro St|San Francisco|CA|94114|(415) 864-9470|Gay Bars
+440 Castro|Castro|440 Castro St|San Francisco|CA|94114|(415) 621-8732|Gay Bars
+SF Badlands|Castro|4121 18th St|San Francisco|CA|94114|(415) 626-9320|Dance Clubs
+McCarthy’s|West Portal|46 West Portal Ave|San Francisco|CA|94127|(415) 564-1412|Sports Bars
+Last Call Bar|Castro|3988 18th St|San Francisco|CA|94114|(415) 861-1310|Gay Bars, Pubs
+Cervecería de Mateveza|Castro|3801 18th St|San Francisco|CA|94114|(415) 212-8412|Bars
+Blush!|Castro|476 Castro St|San Francisco|CA|94114|(415) 558-0893|Wine Bars
+The Mix|Castro|4086 18th St|San Francisco|CA|94114|(415) 431-8616|Gay Bars
+Swirl on Castro|Castro|572 Castro St|San Francisco|CA|94114|(415) 864-2262|Beer, Wine & Spirits
+Hi Tops|Castro|2247 Market St|San Francisco|CA|94114|(415) 551-2500|Sports Bars, Gay Bars
+Pilsner Inn|Castro|225 Church St|San Francisco|CA|94114|(415) 621-7058|Gay Bars
+Twin Peaks Tavern|Castro|401 Castro St|San Francisco|CA|94114|(415) 864-9470|Gay Bars
+440 Castro|Castro|440 Castro St|San Francisco|CA|94114|(415) 621-8732|Gay Bars
+SF Badlands|Castro|4121 18th St|San Francisco|CA|94114|(415) 626-9320|Dance Clubs
+The Royal Exchange|Financial District|301 Sacramento St|San Francisco|CA|94111|(415) 956-1710|Sports Bars, Burgers
+The Devil’s Acre|Chinatown|256 Columbus|San Francisco|CA|94133|(415) 766-4363|Cocktail Bars
+Comstock Saloon|Chinatown|155 Columbus Ave|San Francisco|CA|94133|(415) 617-0071|Lounges
+Buddha Lounge|Chinatown|901 Grant Ave|San Francisco|CA|94108|(415) 362-1792|Dive Bars
+Score! Bar and Lounge|Chinatown, North Beach/Telegraph Hill|490 Broadway|San Francisco|CA|94133|(415) 992-2790|Sports Bars, Music Venues
+Vesuvio Cafe|Chinatown|255 Columbus Ave|San Francisco|CA|94133|(415) 362-3370|Lounges
+Li Po Cocktail Lounge|Chinatown|916 Grant Ave|San Francisco|CA|94108|(415) 982-0072|Dive Bars
+The Hancock Room|Chinatown|1350 Powell St|San Francisco|CA|94133|(415) 699-6545|Lounges
+Mr. Bing’s|Chinatown|201 Columbus Ave|San Francisco|CA|94133|(415) 362-1545|Dive Bars
+Chelsea Place|Chinatown, Union Square|641 Bush St|San Francisco|CA|94108|(415) 989-2524|Dive Bars
+Grasslands Bar & Lounge|Chinatown|905 Kearny St|San Francisco|CA|94133|(415) 288-8636|Bars
+The Royal Exchange|Financial District|301 Sacramento St|San Francisco|CA|94111|(415) 956-1710|Sports Bars, Burgers
+The Devil’s Acre|Chinatown|256 Columbus|San Francisco|CA|94133|(415) 766-4363|Cocktail Bars
+Comstock Saloon|Chinatown|155 Columbus Ave|San Francisco|CA|94133|(415) 617-0071|Lounges
+Buddha Lounge|Chinatown|901 Grant Ave|San Francisco|CA|94108|(415) 362-1792|Dive Bars
+Score! Bar and Lounge|Chinatown, North Beach/Telegraph Hill|490 Broadway|San Francisco|CA|94133|(415) 992-2790|Sports Bars, Music Venues
+Vesuvio Cafe|Chinatown|255 Columbus Ave|San Francisco|CA|94133|(415) 362-3370|Lounges
+Li Po Cocktail Lounge|Chinatown|916 Grant Ave|San Francisco|CA|94108|(415) 982-0072|Dive Bars
+The Hancock Room|Chinatown|1350 Powell St|San Francisco|CA|94133|(415) 699-6545|Lounges
+Mr. Bing’s|Chinatown|201 Columbus Ave|San Francisco|CA|94133|(415) 362-1545|Dive Bars
+Chelsea Place|Chinatown, Union Square|641 Bush St|San Francisco|CA|94108|(415) 989-2524|Dive Bars
+Grasslands Bar & Lounge|Chinatown|905 Kearny St|San Francisco|CA|94133|(415) 288-8636|Bars
+The Royal Exchange|Financial District|301 Sacramento St|San Francisco|CA|94111|(415) 956-1710|Sports Bars, Burgers
+The Devil’s Acre|Chinatown|256 Columbus|San Francisco|CA|94133|(415) 766-4363|Cocktail Bars
+Comstock Saloon|Chinatown|155 Columbus Ave|San Francisco|CA|94133|(415) 617-0071|Lounges
+Buddha Lounge|Chinatown|901 Grant Ave|San Francisco|CA|94108|(415) 362-1792|Dive Bars
+Score! Bar and Lounge|Chinatown, North Beach/Telegraph Hill|490 Broadway|San Francisco|CA|94133|(415) 992-2790|Sports Bars, Music Venues
+Vesuvio Cafe|Chinatown|255 Columbus Ave|San Francisco|CA|94133|(415) 362-3370|Lounges
+Li Po Cocktail Lounge|Chinatown|916 Grant Ave|San Francisco|CA|94108|(415) 982-0072|Dive Bars
+The Hancock Room|Chinatown|1350 Powell St|San Francisco|CA|94133|(415) 699-6545|Lounges
+Mr. Bing’s|Chinatown|201 Columbus Ave|San Francisco|CA|94133|(415) 362-1545|Dive Bars
+Chelsea Place|Chinatown, Union Square|641 Bush St|San Francisco|CA|94108|(415) 989-2524|Dive Bars
+Grasslands Bar & Lounge|Chinatown|905 Kearny St|San Francisco|CA|94133|(415) 288-8636|Bars
+Press Club|Financial District, SoMa, Union Square|20 Yerba Buena Ln|San Francisco|CA|94103|(415) 744-5000|Wine Bars
+The Beer Hall|Civic Center|1 Polk St|San Francisco|CA|94102|(415) 800-7416|Wine Bars
+The Hot Spot|Civic Center|1414 Market St|San Francisco|CA|94102|(415) 355-9800|Dive Bars
+O3 Bistro & Lounge|Civic Center|524 Van Ness Ave|San Francisco|CA|94102|(415) 934-9800|Lounges, Cocktail Bars
+Harry Harrington’s Pub|Civic Center|460 Larkin St|San Francisco|CA|94102|(415) 775-1150|Pubs
+2Lips|Civic Center|1414 Market St|San Francisco|CA|94102|(415) 355-9800|Lounges
+The Empire Room|Civic Center|555 Golden Gate Ave|San Francisco|CA|94102|(415) 979-3031|Cocktail Bars
+Lalita Exotic Thai Cuisine & Bar|Civic Center|96 Mcallister St|San Francisco|CA|94102|(415) 552-5744|Bars
+Fine & Rare Seafood and Wine|Civic Center|555 Golden Gate Ave|San Francisco|CA|94102|(415) 297-3980|Wine Bars, Seafood
+Cadence|Civic Center|1446 Market St|San Francisco|CA|94102||American (New)
+Crask Inn|Civic Center, Fillmore|Crask Cottage||||+44 1549 411241|Pubs
+Press Club|Financial District, SoMa, Union Square|20 Yerba Buena Ln|San Francisco|CA|94103|(415) 744-5000|Wine Bars
+The Beer Hall|Civic Center|1 Polk St|San Francisco|CA|94102|(415) 800-7416|Wine Bars
+The Hot Spot|Civic Center|1414 Market St|San Francisco|CA|94102|(415) 355-9800|Dive Bars
+O3 Bistro & Lounge|Civic Center|524 Van Ness Ave|San Francisco|CA|94102|(415) 934-9800|Lounges, Cocktail Bars
+Harry Harrington’s Pub|Civic Center|460 Larkin St|San Francisco|CA|94102|(415) 775-1150|Pubs
+2Lips|Civic Center|1414 Market St|San Francisco|CA|94102|(415) 355-9800|Lounges
+The Empire Room|Civic Center|555 Golden Gate Ave|San Francisco|CA|94102|(415) 979-3031|Cocktail Bars
+Lalita Exotic Thai Cuisine & Bar|Civic Center|96 Mcallister St|San Francisco|CA|94102|(415) 552-5744|Bars
+Fine & Rare Seafood and Wine|Civic Center|555 Golden Gate Ave|San Francisco|CA|94102|(415) 297-3980|Wine Bars, Seafood
+Cadence|Civic Center|1446 Market St|San Francisco|CA|94102||American (New)
+Crask Inn|Civic Center, Fillmore|Crask Cottage||||+44 1549 411241|Pubs
+Sakesan Bistro|Inner Richmond|626 Clement St|San Francisco|CA|94118|(415) 800-2082|Japanese, Sushi Bars
+Kezar Pub|Cole Valley|770 Stanyan St|San Francisco|CA|94117|(415) 386-9292|Pubs, American (Traditional)
+Finnegan’s Wake|Cole Valley|937 Cole St|San Francisco|CA|94117|(415) 731-6119|Bars
+InoVino|Cole Valley|108B Carl St|San Francisco|CA|94117|(415) 681-3770|Italian
+Made In Italy|Crocker-Amazon|137 East Third Ave|San Mateo|CA|94401|(650) 513-6184|Wine Bars, Italian
+w xyz bar|Crocker-Amazon|401 E Millbrae Ave|Millbrae|CA|94030|(650) 443-5500|Lounges
+Broken Record|Crocker-Amazon|1166 Geneva Ave|San Francisco|CA|94112|(415) 963-1713|Dive Bars
+The Dark Horse Inn|Crocker-Amazon|942 Geneva Ave|San Francisco|CA|94112|(415) 469-5508|American (New), Comfort Food
+Lucita’s Place Bar|Crocker-Amazon|5163 Mission St|San Francisco|CA|94112|(415) 587-2453|Bars
+Terra Gallery & Event Venue|SoMa|511 Harrison St|San Francisco|CA|94105|(415) 896-1234|Art Galleries, Music Venues
+Third Rail|Dogpatch, Potrero Hill|628 20th St|San Francisco|CA|94107|(415) 252-7966|Cocktail Bars
+Dogpatch Saloon|Dogpatch, Potrero Hill|2496 3rd St|San Francisco|CA|94107|(415) 643-8592|Bars
+Yield Wine Bar|Dogpatch, Potrero Hill|2490 3rd St|San Francisco|CA|94107|(415) 401-8984|Wine Bars
+Smokestack|Dogpatch, Potrero Hill|2505 3rd St|San Francisco|CA|94107|(415) 864-7468|Bars, Barbeque
+The Ramp|Dogpatch, Potrero Hill|855 Terry Francois St|San Francisco|CA|94158|(415) 621-2378|Dive Bars, Seafood
+Sea Star Club|Dogpatch, Potrero Hill|2289 3rd St|San Francisco|CA|94107|(415) 552-5330|Dive Bars
+Press Club|Financial District, SoMa, Union Square|20 Yerba Buena Ln|San Francisco|CA|94103|(415) 744-5000|Wine Bars
+Blackbird|Duboce Triangle|2124 Market St|San Francisco|CA|94114|(415) 503-0630|Lounges, Pool Halls
+Churchill|Duboce Triangle|198 Church St|San Francisco|CA|94114|(415) 570-9198|Lounges
+The Residence|Duboce Triangle|718 14th St|San Francisco|CA|94114|(415) 797-8866|Lounges
+Lucky 13|Duboce Triangle|2140 Market St|San Francisco|CA|94114|(415) 487-1313|Dive Bars
+The Office|Duboce Triangle|194 Church St|San Francisco|CA|94114|(415) 754-0194|Venues & Event Spaces
+Beaux|Duboce Triangle|2344 Market St|San Francisco|CA|94114||Gay Bars, Cocktail Bars
+The LookOut|Duboce Triangle, Castro|3600 16th St|San Francisco|CA|94114|(415) 431-0306|Gay Bars
+Brewcade|Duboce Triangle|2200 Market St|San Francisco|CA|94114|(415) 555-5555|Bars
+HECHO|Duboce Triangle|2200 Market St|San Francisco|CA|94114|(415) 926-5630|Mexican
+Café Flore|Duboce Triangle|2298 Market St|San Francisco|CA|94114|(415) 621-8579|American (New), Cafes
+Press Club|Financial District, SoMa, Union Square|20 Yerba Buena Ln|San Francisco|CA|94103|(415) 744-5000|Wine Bars
+Blackbird|Duboce Triangle|2124 Market St|San Francisco|CA|94114|(415) 503-0630|Lounges, Pool Halls
+Churchill|Duboce Triangle|198 Church St|San Francisco|CA|94114|(415) 570-9198|Lounges
+The Residence|Duboce Triangle|718 14th St|San Francisco|CA|94114|(415) 797-8866|Lounges
+Lucky 13|Duboce Triangle|2140 Market St|San Francisco|CA|94114|(415) 487-1313|Dive Bars
+The Office|Duboce Triangle|194 Church St|San Francisco|CA|94114|(415) 754-0194|Venues & Event Spaces
+Beaux|Duboce Triangle|2344 Market St|San Francisco|CA|94114||Gay Bars, Cocktail Bars
+The LookOut|Duboce Triangle, Castro|3600 16th St|San Francisco|CA|94114|(415) 431-0306|Gay Bars
+Brewcade|Duboce Triangle|2200 Market St|San Francisco|CA|94114|(415) 555-5555|Bars
+HECHO|Duboce Triangle|2200 Market St|San Francisco|CA|94114|(415) 926-5630|Mexican
+Café Flore|Duboce Triangle|2298 Market St|San Francisco|CA|94114|(415) 621-8579|American (New), Cafes
+The Royal Exchange|Financial District|301 Sacramento St|San Francisco|CA|94111|(415) 956-1710|Sports Bars, Burgers
+Hard Water|Embarcadero|Pier 3|San Francisco|CA|94111|(415) 392-3021|American (New), Cocktail Bars
+Hi Dive|Embarcadero, SoMa, South Beach|The Embarcadero & Bryant St|San Francisco|CA|94105|(415) 977-0170|Dive Bars, American (Traditional)
+Perry’s|Embarcadero, Financial District, SoMa, South Beach|155 Steuart St|San Francisco|CA|94105|(415) 495-6500|American (Traditional)
+Exploratorium After Dark|Embarcadero, North Beach/Telegraph Hill|Pier 15|San Francisco|CA|94111|(415) 528-4444|Bars
+The Slanted Door|Embarcadero|1 Ferry Bldg|San Francisco|CA|94111|(415) 861-8032|Vietnamese, Bars
+SB40|Embarcadero, SoMa, South Beach|The Embarcadero|San Francisco|CA|94107|(415) 222-6169|Bars
+Ferry Plaza Wine Merchant|Embarcadero, SoMa, South Beach|1 Ferry Bldg|San Francisco|CA|94111|(415) 391-9400|Beer, Wine & Spirits
+Carnelian By The Bay|Embarcadero, SoMa, South Beach|1 Ferry Plz|San Francisco|CA|94111|(415) 391-2660|American (New)
+The Third Eye Restaurant & Bar|Excelsior|333 Broadway|Millbrae|CA|94030|(650) 777-0907|Sports Bars, Himalayan/Nepalese
+Pissed Off Pete’s|Excelsior, Mission Terrace, Outer Mission|4528 Mission St|San Francisco|CA|94112|(415) 584-5122|Dive Bars, Pubs
+Doctor’s Lounge|Excelsior, Mission Terrace, Outer Mission|4826 Mission St|San Francisco|CA|94112|(415) 586-9730|Breakfast & Brunch
+El Toro Night Club|Excelsior, Portola|2470 San Bruno Ave|San Francisco|CA|94134|(415) 468-0670|Bars
+New Judnich’s|Excelsior, Portola|2888 San Bruno Ave|San Francisco|CA|94134|(415) 468-2600|Bars
+Cotters Corner|Excelsior|4431 Mission St|San Francisco|CA|94112|(415) 586-0333|Bars
+Hemlock Tavern|Lower Nob Hill|1131 Polk St|San Francisco|CA|94109|(415) 923-0923|Music Venues
+The Social Study|Fillmore, Western Addition, Lower Pacific Heights|1795 Geary Blvd|San Francisco|CA|94115|(415) 292-7417|Wine Bars
+Smuggler’s Cove|Fillmore|650 Gough St|San Francisco|CA|94102|(415) 869-1900|Bars
+Crimson Lounge|Fillmore, Western Addition|687 McAllister St|San Francisco|CA|94102|(415) 673-9353|Lounges
+Zoomaak|Fillmore, Western Addition|1552 Fillmore St|San Francisco|CA|94115|(415) 441-9299|Wine Bars
+1300 on Fillmore|Fillmore, Western Addition|1300 Fillmore St|San Francisco|CA|94115|(415) 771-7100|Lounges, Venues & Event Spaces
+Tommy’s Joynt|Fillmore, Western Addition|1101 Geary Blvd|San Francisco|CA|94109|(415) 775-4216|American (Traditional), Breakfast & Brunch
+Izakaya Kou|Fillmore, Western Addition|1560 Fillmore St|San Francisco|CA|94115|(415) 441-9294|Japanese, Lounges
+The Rrazz Room|Fillmore, Western Addition|1000 Van Ness Ave|San Francisco|CA|94109||Jazz & Blues, Music Venues
+Crask Inn|Civic Center, Fillmore|Crask Cottage||||+44 1549 411241|Pubs
+EZ5|Financial District|684 Commercial St|San Francisco|CA|94111|(415) 362-9321|Bars
+83 Proof|Financial District, SoMa|83 1st St|San Francisco|CA|94105|(415) 296-8383|Bars
+Rickhouse|Financial District|246 Kearny St|San Francisco|CA|94108|(415) 398-2827|Cocktail Bars
+Local Edition|Financial District, SoMa|691 Market St|San Francisco|CA|94105|(415) 795-1375|Lounges
+Topsy’s Fun House|Financial District|260 Kearny St|San Francisco|CA|94108|(415) 757-0290|Cocktail Bars, Music Venues
+The Hidden Vine|Financial District|408 Merchant St|San Francisco|CA|94111|(415) 674-3567|Wine Bars
+The View|Financial District, SoMa|780 Mission St|San Francisco|CA|94103|(415) 442-6003|Lounges
+Novela|Financial District, SoMa|662 Mission St|San Francisco|CA|94105|(415) 896-6500|Cocktail Bars
+Hawthorn|Financial District, Union Square|46 Geary St|San Francisco|CA|94108|(415) 693-9255|Cocktail Bars
+Southside Spirit House|Financial District, SoMa|575 Howard St|San Francisco|CA|94105|(415) 543-5874|Cocktail Bars
+Cafe Terminus|Financial District|16 California St|San Francisco|CA|94109|(415) 960-8405|Cocktail Bars
+EZ5|Financial District|684 Commercial St|San Francisco|CA|94111|(415) 362-9321|Bars
+83 Proof|Financial District, SoMa|83 1st St|San Francisco|CA|94105|(415) 296-8383|Bars
+Rickhouse|Financial District|246 Kearny St|San Francisco|CA|94108|(415) 398-2827|Cocktail Bars
+Local Edition|Financial District, SoMa|691 Market St|San Francisco|CA|94105|(415) 795-1375|Lounges
+Topsy’s Fun House|Financial District|260 Kearny St|San Francisco|CA|94108|(415) 757-0290|Cocktail Bars, Music Venues
+The Hidden Vine|Financial District|408 Merchant St|San Francisco|CA|94111|(415) 674-3567|Wine Bars
+The View|Financial District, SoMa|780 Mission St|San Francisco|CA|94103|(415) 442-6003|Lounges
+Novela|Financial District, SoMa|662 Mission St|San Francisco|CA|94105|(415) 896-6500|Cocktail Bars
+Hawthorn|Financial District, Union Square|46 Geary St|San Francisco|CA|94108|(415) 693-9255|Cocktail Bars
+Southside Spirit House|Financial District, SoMa|575 Howard St|San Francisco|CA|94105|(415) 543-5874|Cocktail Bars
+Cafe Terminus|Financial District|16 California St|San Francisco|CA|94109|(415) 960-8405|Cocktail Bars
+EZ5|Financial District|684 Commercial St|San Francisco|CA|94111|(415) 362-9321|Bars
+83 Proof|Financial District, SoMa|83 1st St|San Francisco|CA|94105|(415) 296-8383|Bars
+Rickhouse|Financial District|246 Kearny St|San Francisco|CA|94108|(415) 398-2827|Cocktail Bars
+Local Edition|Financial District, SoMa|691 Market St|San Francisco|CA|94105|(415) 795-1375|Lounges
+Topsy’s Fun House|Financial District|260 Kearny St|San Francisco|CA|94108|(415) 757-0290|Cocktail Bars, Music Venues
+The Hidden Vine|Financial District|408 Merchant St|San Francisco|CA|94111|(415) 674-3567|Wine Bars
+The View|Financial District, SoMa|780 Mission St|San Francisco|CA|94103|(415) 442-6003|Lounges
+Novela|Financial District, SoMa|662 Mission St|San Francisco|CA|94105|(415) 896-6500|Cocktail Bars
+Hawthorn|Financial District, Union Square|46 Geary St|San Francisco|CA|94108|(415) 693-9255|Cocktail Bars
+Southside Spirit House|Financial District, SoMa|575 Howard St|San Francisco|CA|94105|(415) 543-5874|Cocktail Bars
+Cafe Terminus|Financial District|16 California St|San Francisco|CA|94109|(415) 960-8405|Cocktail Bars
+EZ5|Financial District|684 Commercial St|San Francisco|CA|94111|(415) 362-9321|Bars
+83 Proof|Financial District, SoMa|83 1st St|San Francisco|CA|94105|(415) 296-8383|Bars
+Rickhouse|Financial District|246 Kearny St|San Francisco|CA|94108|(415) 398-2827|Cocktail Bars
+Local Edition|Financial District, SoMa|691 Market St|San Francisco|CA|94105|(415) 795-1375|Lounges
+Topsy’s Fun House|Financial District|260 Kearny St|San Francisco|CA|94108|(415) 757-0290|Cocktail Bars, Music Venues
+The Hidden Vine|Financial District|408 Merchant St|San Francisco|CA|94111|(415) 674-3567|Wine Bars
+The View|Financial District, SoMa|780 Mission St|San Francisco|CA|94103|(415) 442-6003|Lounges
+Novela|Financial District, SoMa|662 Mission St|San Francisco|CA|94105|(415) 896-6500|Cocktail Bars
+Hawthorn|Financial District, Union Square|46 Geary St|San Francisco|CA|94108|(415) 693-9255|Cocktail Bars
+Southside Spirit House|Financial District, SoMa|575 Howard St|San Francisco|CA|94105|(415) 543-5874|Cocktail Bars
+Cafe Terminus|Financial District|16 California St|San Francisco|CA|94109|(415) 960-8405|Cocktail Bars
+EZ5|Financial District|684 Commercial St|San Francisco|CA|94111|(415) 362-9321|Bars
+83 Proof|Financial District, SoMa|83 1st St|San Francisco|CA|94105|(415) 296-8383|Bars
+Rickhouse|Financial District|246 Kearny St|San Francisco|CA|94108|(415) 398-2827|Cocktail Bars
+Local Edition|Financial District, SoMa|691 Market St|San Francisco|CA|94105|(415) 795-1375|Lounges
+Topsy’s Fun House|Financial District|260 Kearny St|San Francisco|CA|94108|(415) 757-0290|Cocktail Bars, Music Venues
+The Hidden Vine|Financial District|408 Merchant St|San Francisco|CA|94111|(415) 674-3567|Wine Bars
+The View|Financial District, SoMa|780 Mission St|San Francisco|CA|94103|(415) 442-6003|Lounges
+Novela|Financial District, SoMa|662 Mission St|San Francisco|CA|94105|(415) 896-6500|Cocktail Bars
+Hawthorn|Financial District, Union Square|46 Geary St|San Francisco|CA|94108|(415) 693-9255|Cocktail Bars
+Southside Spirit House|Financial District, SoMa|575 Howard St|San Francisco|CA|94105|(415) 543-5874|Cocktail Bars
+Cafe Terminus|Financial District|16 California St|San Francisco|CA|94109|(415) 960-8405|Cocktail Bars
+EZ5|Financial District|684 Commercial St|San Francisco|CA|94111|(415) 362-9321|Bars
+83 Proof|Financial District, SoMa|83 1st St|San Francisco|CA|94105|(415) 296-8383|Bars
+Rickhouse|Financial District|246 Kearny St|San Francisco|CA|94108|(415) 398-2827|Cocktail Bars
+Local Edition|Financial District, SoMa|691 Market St|San Francisco|CA|94105|(415) 795-1375|Lounges
+Topsy’s Fun House|Financial District|260 Kearny St|San Francisco|CA|94108|(415) 757-0290|Cocktail Bars, Music Venues
+The Hidden Vine|Financial District|408 Merchant St|San Francisco|CA|94111|(415) 674-3567|Wine Bars
+The View|Financial District, SoMa|780 Mission St|San Francisco|CA|94103|(415) 442-6003|Lounges
+Novela|Financial District, SoMa|662 Mission St|San Francisco|CA|94105|(415) 896-6500|Cocktail Bars
+Hawthorn|Financial District, Union Square|46 Geary St|San Francisco|CA|94108|(415) 693-9255|Cocktail Bars
+Southside Spirit House|Financial District, SoMa|575 Howard St|San Francisco|CA|94105|(415) 543-5874|Cocktail Bars
+Cafe Terminus|Financial District|16 California St|San Francisco|CA|94109|(415) 960-8405|Cocktail Bars
+EZ5|Financial District|684 Commercial St|San Francisco|CA|94111|(415) 362-9321|Bars
+83 Proof|Financial District, SoMa|83 1st St|San Francisco|CA|94105|(415) 296-8383|Bars
+Rickhouse|Financial District|246 Kearny St|San Francisco|CA|94108|(415) 398-2827|Cocktail Bars
+Local Edition|Financial District, SoMa|691 Market St|San Francisco|CA|94105|(415) 795-1375|Lounges
+Topsy’s Fun House|Financial District|260 Kearny St|San Francisco|CA|94108|(415) 757-0290|Cocktail Bars, Music Venues
+The Hidden Vine|Financial District|408 Merchant St|San Francisco|CA|94111|(415) 674-3567|Wine Bars
+The View|Financial District, SoMa|780 Mission St|San Francisco|CA|94103|(415) 442-6003|Lounges
+Novela|Financial District, SoMa|662 Mission St|San Francisco|CA|94105|(415) 896-6500|Cocktail Bars
+Hawthorn|Financial District, Union Square|46 Geary St|San Francisco|CA|94108|(415) 693-9255|Cocktail Bars
+Southside Spirit House|Financial District, SoMa|575 Howard St|San Francisco|CA|94105|(415) 543-5874|Cocktail Bars
+Cafe Terminus|Financial District|16 California St|San Francisco|CA|94109|(415) 960-8405|Cocktail Bars
+EZ5|Financial District|684 Commercial St|San Francisco|CA|94111|(415) 362-9321|Bars
+83 Proof|Financial District, SoMa|83 1st St|San Francisco|CA|94105|(415) 296-8383|Bars
+Rickhouse|Financial District|246 Kearny St|San Francisco|CA|94108|(415) 398-2827|Cocktail Bars
+Local Edition|Financial District, SoMa|691 Market St|San Francisco|CA|94105|(415) 795-1375|Lounges
+Topsy’s Fun House|Financial District|260 Kearny St|San Francisco|CA|94108|(415) 757-0290|Cocktail Bars, Music Venues
+The Hidden Vine|Financial District|408 Merchant St|San Francisco|CA|94111|(415) 674-3567|Wine Bars
+The View|Financial District, SoMa|780 Mission St|San Francisco|CA|94103|(415) 442-6003|Lounges
+Novela|Financial District, SoMa|662 Mission St|San Francisco|CA|94105|(415) 896-6500|Cocktail Bars
+Hawthorn|Financial District, Union Square|46 Geary St|San Francisco|CA|94108|(415) 693-9255|Cocktail Bars
+Southside Spirit House|Financial District, SoMa|575 Howard St|San Francisco|CA|94105|(415) 543-5874|Cocktail Bars
+Cafe Terminus|Financial District|16 California St|San Francisco|CA|94109|(415) 960-8405|Cocktail Bars
+EZ5|Financial District|684 Commercial St|San Francisco|CA|94111|(415) 362-9321|Bars
+83 Proof|Financial District, SoMa|83 1st St|San Francisco|CA|94105|(415) 296-8383|Bars
+Rickhouse|Financial District|246 Kearny St|San Francisco|CA|94108|(415) 398-2827|Cocktail Bars
+Local Edition|Financial District, SoMa|691 Market St|San Francisco|CA|94105|(415) 795-1375|Lounges
+Topsy’s Fun House|Financial District|260 Kearny St|San Francisco|CA|94108|(415) 757-0290|Cocktail Bars, Music Venues
+The Hidden Vine|Financial District|408 Merchant St|San Francisco|CA|94111|(415) 674-3567|Wine Bars
+The View|Financial District, SoMa|780 Mission St|San Francisco|CA|94103|(415) 442-6003|Lounges
+Novela|Financial District, SoMa|662 Mission St|San Francisco|CA|94105|(415) 896-6500|Cocktail Bars
+Hawthorn|Financial District, Union Square|46 Geary St|San Francisco|CA|94108|(415) 693-9255|Cocktail Bars
+Southside Spirit House|Financial District, SoMa|575 Howard St|San Francisco|CA|94105|(415) 543-5874|Cocktail Bars
+Cafe Terminus|Financial District|16 California St|San Francisco|CA|94109|(415) 960-8405|Cocktail Bars
+E&O Kitchen and Bar|Financial District, Union Square|314 Sutter St|San Francisco|CA|94108|(415) 693-0303|Bars, Venues & Event Spaces
+Gold Dust Lounge|Fisherman's Wharf, North Beach/Telegraph Hill|165 Jefferson St|San Francisco|CA|94133|(415) 397-1695|Lounges
+Beer 39|Fisherman's Wharf, North Beach/Telegraph Hill|Pier 39|San Francisco|CA|94133|(415) 421-2699|Bars
+Buena Vista Cafe|Fisherman's Wharf, Russian Hill|2765 Hyde St|San Francisco|CA|94109|(415) 474-5044|Bars, Breakfast & Brunch
+The Pub at Ghirardelli Square|Fisherman's Wharf, Russian Hill|851 Beach St|San Francisco|CA|94109|(415) 351-0500|Barbeque
+Fiddler’s Green|Fisherman's Wharf, Russian Hill|1333 Columbus Ave|San Francisco|CA|94133|(415) 441-9758|Irish
+Jacks Cannery Bar|Fisherman's Wharf, Russian Hill|2801 Leavenworth St|San Francisco|CA|94133|(415) 931-6400|American (New)
+Fort One Bar & Lounge|Fisherman's Wharf, Russian Hill|2801 Leavenworth St|San Francisco|CA|94133|(415) 671-8081|Cocktail Bars
+Pier Market Seafood Restaurant|Fisherman's Wharf, North Beach/Telegraph Hill|Pier 39|San Francisco|CA|94133|(415) 989-7437|Seafood
+Luau Lounge|Fisherman's Wharf, North Beach/Telegraph Hill|Players Sports Grill & Arcade|San Francisco|CA|94133|(415) 981-6300|Sports Bars
+Brick & Beam|Fisherman's Wharf, North Beach/Telegraph Hill|555 N Point St|San Francisco|CA|94133|(415) 202-3612|Bars
+E&O Kitchen and Bar|Financial District, Union Square|314 Sutter St|San Francisco|CA|94108|(415) 693-0303|Bars, Venues & Event Spaces
+Gold Dust Lounge|Fisherman's Wharf, North Beach/Telegraph Hill|165 Jefferson St|San Francisco|CA|94133|(415) 397-1695|Lounges
+Beer 39|Fisherman's Wharf, North Beach/Telegraph Hill|Pier 39|San Francisco|CA|94133|(415) 421-2699|Bars
+Buena Vista Cafe|Fisherman's Wharf, Russian Hill|2765 Hyde St|San Francisco|CA|94109|(415) 474-5044|Bars, Breakfast & Brunch
+The Pub at Ghirardelli Square|Fisherman's Wharf, Russian Hill|851 Beach St|San Francisco|CA|94109|(415) 351-0500|Barbeque
+Fiddler’s Green|Fisherman's Wharf, Russian Hill|1333 Columbus Ave|San Francisco|CA|94133|(415) 441-9758|Irish
+Jacks Cannery Bar|Fisherman's Wharf, Russian Hill|2801 Leavenworth St|San Francisco|CA|94133|(415) 931-6400|American (New)
+Fort One Bar & Lounge|Fisherman's Wharf, Russian Hill|2801 Leavenworth St|San Francisco|CA|94133|(415) 671-8081|Cocktail Bars
+Pier Market Seafood Restaurant|Fisherman's Wharf, North Beach/Telegraph Hill|Pier 39|San Francisco|CA|94133|(415) 989-7437|Seafood
+Luau Lounge|Fisherman's Wharf, North Beach/Telegraph Hill|Players Sports Grill & Arcade|San Francisco|CA|94133|(415) 981-6300|Sports Bars
+Brick & Beam|Fisherman's Wharf, North Beach/Telegraph Hill|555 N Point St|San Francisco|CA|94133|(415) 202-3612|Bars
+F8 Lounge|SoMa|1192 Folsom|San Francisco|CA|94103|(415) 857-1192|Dance Clubs, Venues & Event Spaces
+Glen Park Station|Glen Park|2816 Diamond St|San Francisco|CA|94131|(415) 333-4633|Dive Bars, Lounges
+Casanova Lounge|Mission|527 Valencia St|San Francisco|CA|94110|(415) 863-9328|Lounges
+Brass Tacks|Hayes Valley|488 A Hayes St|San Francisco|CA|94102||Bars
+Two Sisters Bar and Books|Hayes Valley|579 Hayes St|San Francisco|CA|94102|(415) 863-3655|Bars
+Fig & Thistle|Hayes Valley|313 Ivy St|San Francisco|CA|94102|(415) 589-7005|Wine Bars
+Biergarten|Hayes Valley|424 Octavia St|San Francisco|CA|94102|(415) 252-9289|German
+Absinthe Brasserie & Bar|Hayes Valley|398 Hayes St|San Francisco|CA|94102|(415) 551-1590|French, Bars
+Muka|Hayes Valley|370 Grove St|San Francisco|CA|94102|(415) 701-9888|Cocktail Bars
+Noir Lounge|Hayes Valley|581 Hayes St|San Francisco|CA|94102|(415) 431-6647|Wine Bars, American (Traditional)
+Nickies|Hayes Valley, Lower Haight|466 Haight St|San Francisco|CA|94117|(415) 255-0300|Sports Bars
+Sugar Lounge|Hayes Valley|377 Hayes St|San Francisco|CA|94102|(415) 255-7144|Lounges
+Dobbs Bar|Hayes Valley|406 Hayes St|San Francisco|CA|94102|(415) 551-7700|Bars
+Casanova Lounge|Mission|527 Valencia St|San Francisco|CA|94110|(415) 863-9328|Lounges
+Brass Tacks|Hayes Valley|488 A Hayes St|San Francisco|CA|94102||Bars
+Two Sisters Bar and Books|Hayes Valley|579 Hayes St|San Francisco|CA|94102|(415) 863-3655|Bars
+Fig & Thistle|Hayes Valley|313 Ivy St|San Francisco|CA|94102|(415) 589-7005|Wine Bars
+Biergarten|Hayes Valley|424 Octavia St|San Francisco|CA|94102|(415) 252-9289|German
+Absinthe Brasserie & Bar|Hayes Valley|398 Hayes St|San Francisco|CA|94102|(415) 551-1590|French, Bars
+Muka|Hayes Valley|370 Grove St|San Francisco|CA|94102|(415) 701-9888|Cocktail Bars
+Noir Lounge|Hayes Valley|581 Hayes St|San Francisco|CA|94102|(415) 431-6647|Wine Bars, American (Traditional)
+Nickies|Hayes Valley, Lower Haight|466 Haight St|San Francisco|CA|94117|(415) 255-0300|Sports Bars
+Sugar Lounge|Hayes Valley|377 Hayes St|San Francisco|CA|94102|(415) 255-7144|Lounges
+Dobbs Bar|Hayes Valley|406 Hayes St|San Francisco|CA|94102|(415) 551-7700|Bars
+Casanova Lounge|Mission|527 Valencia St|San Francisco|CA|94110|(415) 863-9328|Lounges
+Brass Tacks|Hayes Valley|488 A Hayes St|San Francisco|CA|94102||Bars
+Two Sisters Bar and Books|Hayes Valley|579 Hayes St|San Francisco|CA|94102|(415) 863-3655|Bars
+Fig & Thistle|Hayes Valley|313 Ivy St|San Francisco|CA|94102|(415) 589-7005|Wine Bars
+Biergarten|Hayes Valley|424 Octavia St|San Francisco|CA|94102|(415) 252-9289|German
+Absinthe Brasserie & Bar|Hayes Valley|398 Hayes St|San Francisco|CA|94102|(415) 551-1590|French, Bars
+Muka|Hayes Valley|370 Grove St|San Francisco|CA|94102|(415) 701-9888|Cocktail Bars
+Noir Lounge|Hayes Valley|581 Hayes St|San Francisco|CA|94102|(415) 431-6647|Wine Bars, American (Traditional)
+Nickies|Hayes Valley, Lower Haight|466 Haight St|San Francisco|CA|94117|(415) 255-0300|Sports Bars
+Sugar Lounge|Hayes Valley|377 Hayes St|San Francisco|CA|94102|(415) 255-7144|Lounges
+Dobbs Bar|Hayes Valley|406 Hayes St|San Francisco|CA|94102|(415) 551-7700|Bars
+The Third Eye Restaurant & Bar|Ingleside|333 Broadway|Millbrae|CA|94030|(650) 777-0907|Sports Bars, Himalayan/Nepalese
+The Ave|Ingleside|1607 Ocean Ave|San Francisco|CA|94112|(415) 587-6645|Dive Bars
+Randy’s Place|Ingleside|1101 Ocean Ave|San Francisco|CA|94112|(415) 584-7021|Dive Bars
+Sakesan Bistro|Inner Richmond|626 Clement St|San Francisco|CA|94118|(415) 800-2082|Japanese, Sushi Bars
+Richmond Republic Draught House|Inner Richmond|642 Clement St|San Francisco|CA|94118|(415) 702-6069|Pubs
+Chomp N’ Swig|Inner Richmond|1541 Clement St|San Francisco|CA|94118|(415) 683-5946|Sandwiches
+The Pig & Whistle|Inner Richmond, Laurel Heights|2801 Geary Blvd|San Francisco|CA|94118|(415) 885-4779|Pubs
+The Bitter End|Inner Richmond|441 Clement St|San Francisco|CA|94118|(415) 221-9538|Pubs
+540 Club|Inner Richmond|540 Clement St|San Francisco|CA|94118|(415) 752-7276|Bars
+Buckshot Bar and Gameroom|Inner Richmond|3848 Geary Blvd|San Francisco|CA|94118|(415) 831-8838|Bars
+Side Bar|Inner Richmond|408 Clement St|San Francisco|CA|94118|(415) 702-6251|Bars
+The Hearth|Inner Richmond|4701 Geary Blvd|San Francisco|CA|94118|(415) 751-0200|Bars
+The Plough & Stars|Inner Richmond|116 Clement St|San Francisco|CA|94118|(415) 751-1122|Pubs
+McKenzie’s Bar|Inner Richmond|5320 Geary Blvd|San Francisco|CA|94121|(415) 751-2274|Pubs
+Sakesan Bistro|Inner Richmond|626 Clement St|San Francisco|CA|94118|(415) 800-2082|Japanese, Sushi Bars
+Richmond Republic Draught House|Inner Richmond|642 Clement St|San Francisco|CA|94118|(415) 702-6069|Pubs
+Chomp N’ Swig|Inner Richmond|1541 Clement St|San Francisco|CA|94118|(415) 683-5946|Sandwiches
+The Pig & Whistle|Inner Richmond, Laurel Heights|2801 Geary Blvd|San Francisco|CA|94118|(415) 885-4779|Pubs
+The Bitter End|Inner Richmond|441 Clement St|San Francisco|CA|94118|(415) 221-9538|Pubs
+540 Club|Inner Richmond|540 Clement St|San Francisco|CA|94118|(415) 752-7276|Bars
+Buckshot Bar and Gameroom|Inner Richmond|3848 Geary Blvd|San Francisco|CA|94118|(415) 831-8838|Bars
+Side Bar|Inner Richmond|408 Clement St|San Francisco|CA|94118|(415) 702-6251|Bars
+The Hearth|Inner Richmond|4701 Geary Blvd|San Francisco|CA|94118|(415) 751-0200|Bars
+The Plough & Stars|Inner Richmond|116 Clement St|San Francisco|CA|94118|(415) 751-1122|Pubs
+McKenzie’s Bar|Inner Richmond|5320 Geary Blvd|San Francisco|CA|94121|(415) 751-2274|Pubs
+Sakesan Bistro|Inner Richmond|626 Clement St|San Francisco|CA|94118|(415) 800-2082|Japanese, Sushi Bars
+Richmond Republic Draught House|Inner Richmond|642 Clement St|San Francisco|CA|94118|(415) 702-6069|Pubs
+Chomp N’ Swig|Inner Richmond|1541 Clement St|San Francisco|CA|94118|(415) 683-5946|Sandwiches
+The Pig & Whistle|Inner Richmond, Laurel Heights|2801 Geary Blvd|San Francisco|CA|94118|(415) 885-4779|Pubs
+The Bitter End|Inner Richmond|441 Clement St|San Francisco|CA|94118|(415) 221-9538|Pubs
+540 Club|Inner Richmond|540 Clement St|San Francisco|CA|94118|(415) 752-7276|Bars
+Buckshot Bar and Gameroom|Inner Richmond|3848 Geary Blvd|San Francisco|CA|94118|(415) 831-8838|Bars
+Side Bar|Inner Richmond|408 Clement St|San Francisco|CA|94118|(415) 702-6251|Bars
+The Hearth|Inner Richmond|4701 Geary Blvd|San Francisco|CA|94118|(415) 751-0200|Bars
+The Plough & Stars|Inner Richmond|116 Clement St|San Francisco|CA|94118|(415) 751-1122|Pubs
+McKenzie’s Bar|Inner Richmond|5320 Geary Blvd|San Francisco|CA|94121|(415) 751-2274|Pubs
+Sakesan Bistro|Inner Richmond|626 Clement St|San Francisco|CA|94118|(415) 800-2082|Japanese, Sushi Bars
+Richmond Republic Draught House|Inner Richmond|642 Clement St|San Francisco|CA|94118|(415) 702-6069|Pubs
+Chomp N’ Swig|Inner Richmond|1541 Clement St|San Francisco|CA|94118|(415) 683-5946|Sandwiches
+The Pig & Whistle|Inner Richmond, Laurel Heights|2801 Geary Blvd|San Francisco|CA|94118|(415) 885-4779|Pubs
+The Bitter End|Inner Richmond|441 Clement St|San Francisco|CA|94118|(415) 221-9538|Pubs
+540 Club|Inner Richmond|540 Clement St|San Francisco|CA|94118|(415) 752-7276|Bars
+Buckshot Bar and Gameroom|Inner Richmond|3848 Geary Blvd|San Francisco|CA|94118|(415) 831-8838|Bars
+Side Bar|Inner Richmond|408 Clement St|San Francisco|CA|94118|(415) 702-6251|Bars
+The Hearth|Inner Richmond|4701 Geary Blvd|San Francisco|CA|94118|(415) 751-0200|Bars
+The Plough & Stars|Inner Richmond|116 Clement St|San Francisco|CA|94118|(415) 751-1122|Pubs
+McKenzie’s Bar|Inner Richmond|5320 Geary Blvd|San Francisco|CA|94121|(415) 751-2274|Pubs
+Tupelo|North Beach/Telegraph Hill|1337 Grant Ave|San Francisco|CA|94133|(415) 981-9177|Southern, Music Venues
+Fireside Bar|Inner Sunset|603 Irving St|San Francisco|CA|94122|(415) 731-6433|Bars
+Blackthorn|Inner Sunset|834 Irving St|San Francisco|CA|94122|(415) 564-6626|Sports Bars
+InnerFog|Inner Sunset|545 Irving St|San Francisco|CA|94122|(415) 682-4116|Wine Bars
+The Little Shamrock|Inner Sunset|807 Lincoln Way|San Francisco|CA|94122|(415) 661-0060|Pubs
+Yancy’s Saloon|Inner Sunset|734 Irving St|San Francisco|CA|94122|(415) 665-6551|Sports Bars
+The Corner Spot|Inner Sunset|1368 Irving St|San Francisco|CA|94122|(415) 742-5572|Sports Bars
+Mucky Duck|Inner Sunset|1315 9th Ave|San Francisco|CA|94122|(415) 661-4340|Bars
+Baan Restaurant & Wine Bar|Inner Sunset|534 Irving St|San Francisco|CA|94122|(415) 379-4505|Thai
+Bus Stop|Marina/Cow Hollow|1901 Union St|San Francisco|CA|94123|(415) 567-6905|Sports Bars
+Playground|Japantown, Lower Pacific Heights|1705 Buchanan St|San Francisco|CA|94115|(415) 929-1471|Korean, Lounges
+Mogura|Japantown, Lower Pacific Heights|1581 Webster St|San Francisco|CA|94115|(415) 673-5636|Bars
+Wine Jar|Japantown, Lower Pacific Heights|1870 Fillmore St|San Francisco|CA|94115|(415) 931-2924|Wine Bars
+Pa’ina Lounge & Restaurant|Japantown, Lower Pacific Heights|1865 Post St|San Francisco|CA|94115|(415) 829-2642|Hawaiian, Asian Fusion
+Milo Lounge|Japantown, Lower Pacific Heights|1706 Post St|San Francisco|CA|94115|(415) 776-6868|Karaoke
+Dimples|Japantown, Lower Pacific Heights|1700 Post St|San Francisco|CA|94115|(415) 775-6688|Bars
+Festa Wine & Cocktail Lounge|Japantown, Lower Pacific Heights|1825A Post St, Ste 210|San Francisco|CA|94115|(415) 567-5866|Lounges
+Kappa Japanese Restaurant|Japantown, Lower Pacific Heights|1700 Post St|San Francisco|CA|94115|(415) 673-6004|Japanese
+Cafe Majestic|Japantown, Lower Pacific Heights|1500 Sutter St|San Francisco|CA|94109|(415) 441-1280|Italian
+Pizza Inferno|Japantown, Lower Pacific Heights|1800 Fillmore St|San Francisco|CA|94115|(415) 775-1800|Pizza
+Bus Stop|Marina/Cow Hollow|1901 Union St|San Francisco|CA|94123|(415) 567-6905|Sports Bars
+Playground|Japantown, Lower Pacific Heights|1705 Buchanan St|San Francisco|CA|94115|(415) 929-1471|Korean, Lounges
+Mogura|Japantown, Lower Pacific Heights|1581 Webster St|San Francisco|CA|94115|(415) 673-5636|Bars
+Wine Jar|Japantown, Lower Pacific Heights|1870 Fillmore St|San Francisco|CA|94115|(415) 931-2924|Wine Bars
+Pa’ina Lounge & Restaurant|Japantown, Lower Pacific Heights|1865 Post St|San Francisco|CA|94115|(415) 829-2642|Hawaiian, Asian Fusion
+Milo Lounge|Japantown, Lower Pacific Heights|1706 Post St|San Francisco|CA|94115|(415) 776-6868|Karaoke
+Dimples|Japantown, Lower Pacific Heights|1700 Post St|San Francisco|CA|94115|(415) 775-6688|Bars
+Festa Wine & Cocktail Lounge|Japantown, Lower Pacific Heights|1825A Post St, Ste 210|San Francisco|CA|94115|(415) 567-5866|Lounges
+Kappa Japanese Restaurant|Japantown, Lower Pacific Heights|1700 Post St|San Francisco|CA|94115|(415) 673-6004|Japanese
+Cafe Majestic|Japantown, Lower Pacific Heights|1500 Sutter St|San Francisco|CA|94109|(415) 441-1280|Italian
+Pizza Inferno|Japantown, Lower Pacific Heights|1800 Fillmore St|San Francisco|CA|94115|(415) 775-1800|Pizza
+VinoRosso|Bernal Heights|629 Cortland Ave|San Francisco|CA|94110|(415) 647-1268|Italian
+Wang Dae Bak|Lakeside|2642 Ocean Ave|San Francisco|CA|94132|(415) 564-1500|Korean
+Shabu Club|Inner Richmond|951 Clement St|San Francisco|CA|94118|(415) 742-5265|Japanese, Bars
+The Pig & Whistle|Inner Richmond, Laurel Heights|2801 Geary Blvd|San Francisco|CA|94118|(415) 885-4779|Pubs
+Internos Wine Cafe|Inner Richmond, Laurel Heights|3240 Geary Blvd|San Francisco|CA|94118|(415) 751-2661|Wine Bars
+Tofino Wines|Laurel Heights|2696 Geary Blvd|San Francisco|CA|94118|(415) 872-5782|Wine Bars
+Noir Lounge|Hayes Valley|581 Hayes St|San Francisco|CA|94102|(415) 431-6647|Wine Bars, American (Traditional)
+Maven|Lower Haight|598 Haight St|San Francisco|CA|94117|(415) 829-7982|American (New), Cocktail Bars
+Toronado|Lower Haight|547 Haight St|San Francisco|CA|94117|(415) 863-2276|Dive Bars
+Noc Noc|Lower Haight|557 Haight St|San Francisco|CA|94117|(415) 861-5811|Lounges
+The Page|Lower Haight|298 Divisadero St|San Francisco|CA|94117|(415) 255-6101|Bars
+Danny Coyle’s|Lower Haight|668 Haight St|San Francisco|CA|94117|(415) 558-8375|Pubs
+Nickies|Hayes Valley, Lower Haight|466 Haight St|San Francisco|CA|94117|(415) 255-0300|Sports Bars
+Mad Dog In The Fog|Lower Haight|530 Haight St|San Francisco|CA|94117|(415) 626-7279|Pubs
+Molotov’s|Lower Haight|582 Haight St|San Francisco|CA|94117|(415) 558-8019|Dive Bars
+Vinyl Coffee & Wine Bar|Lower Haight|359 Divisadero St|San Francisco|CA|94117|(415) 621-4132|Wine Bars, Breakfast & Brunch
+Underground SF|Hayes Valley, Lower Haight|424 Haight St|San Francisco|CA|94117|(415) 864-7386|Dive Bars
+Noir Lounge|Hayes Valley|581 Hayes St|San Francisco|CA|94102|(415) 431-6647|Wine Bars, American (Traditional)
+Maven|Lower Haight|598 Haight St|San Francisco|CA|94117|(415) 829-7982|American (New), Cocktail Bars
+Toronado|Lower Haight|547 Haight St|San Francisco|CA|94117|(415) 863-2276|Dive Bars
+Noc Noc|Lower Haight|557 Haight St|San Francisco|CA|94117|(415) 861-5811|Lounges
+The Page|Lower Haight|298 Divisadero St|San Francisco|CA|94117|(415) 255-6101|Bars
+Danny Coyle’s|Lower Haight|668 Haight St|San Francisco|CA|94117|(415) 558-8375|Pubs
+Nickies|Hayes Valley, Lower Haight|466 Haight St|San Francisco|CA|94117|(415) 255-0300|Sports Bars
+Mad Dog In The Fog|Lower Haight|530 Haight St|San Francisco|CA|94117|(415) 626-7279|Pubs
+Molotov’s|Lower Haight|582 Haight St|San Francisco|CA|94117|(415) 558-8019|Dive Bars
+Vinyl Coffee & Wine Bar|Lower Haight|359 Divisadero St|San Francisco|CA|94117|(415) 621-4132|Wine Bars, Breakfast & Brunch
+Underground SF|Hayes Valley, Lower Haight|424 Haight St|San Francisco|CA|94117|(415) 864-7386|Dive Bars
+The Cellar|Union Square, Lower Nob Hill|685 Sutter St|San Francisco|CA|94102|(415) 441-5678|Dance Clubs
+Hopwater Distribution|Nob Hill, Union Square, Lower Nob Hill|850 Bush St|San Francisco|CA|94108||Pubs
+Rye|Lower Nob Hill|688 Geary St|San Francisco|CA|94102|(415) 474-4448|Lounges
+Lush Lounge|Lower Nob Hill|1221 Polk St|San Francisco|CA|94109|(415) 771-2022|Lounges
+Owl Tree|Union Square, Lower Nob Hill|601 Post St|San Francisco|CA|94109|(415) 359-1600|Lounges
+Summer Place Cocktail Lounge|Union Square, Lower Nob Hill|801 Bush St|San Francisco|CA|94108|(415) 441-2252|Cocktail Bars
+Tender|Lower Nob Hill|854 Geary St|San Francisco|CA|94109|(415) 589-7879|Wine Bars
+Edinburgh Castle Pub|Lower Nob Hill|950 Geary St|San Francisco|CA|94109|(415) 885-4074|Pubs
+White Horse Tavern & Restaurant|Union Square, Lower Nob Hill|635 Sutter St|San Francisco|CA|94102|(415) 673-9900|Pubs
+R Bar|Lower Nob Hill|1176 Sutter St|San Francisco|CA|94109|(415) 567-7441|Dive Bars
+The Pour House|Nob Hill, Lower Nob Hill|1327 Polk St|San Francisco|CA|94109|(415) 440-7662|Wine Bars
+The Cellar|Union Square, Lower Nob Hill|685 Sutter St|San Francisco|CA|94102|(415) 441-5678|Dance Clubs
+Hopwater Distribution|Nob Hill, Union Square, Lower Nob Hill|850 Bush St|San Francisco|CA|94108||Pubs
+Rye|Lower Nob Hill|688 Geary St|San Francisco|CA|94102|(415) 474-4448|Lounges
+Lush Lounge|Lower Nob Hill|1221 Polk St|San Francisco|CA|94109|(415) 771-2022|Lounges
+Owl Tree|Union Square, Lower Nob Hill|601 Post St|San Francisco|CA|94109|(415) 359-1600|Lounges
+Summer Place Cocktail Lounge|Union Square, Lower Nob Hill|801 Bush St|San Francisco|CA|94108|(415) 441-2252|Cocktail Bars
+Tender|Lower Nob Hill|854 Geary St|San Francisco|CA|94109|(415) 589-7879|Wine Bars
+Edinburgh Castle Pub|Lower Nob Hill|950 Geary St|San Francisco|CA|94109|(415) 885-4074|Pubs
+White Horse Tavern & Restaurant|Union Square, Lower Nob Hill|635 Sutter St|San Francisco|CA|94102|(415) 673-9900|Pubs
+R Bar|Lower Nob Hill|1176 Sutter St|San Francisco|CA|94109|(415) 567-7441|Dive Bars
+The Pour House|Nob Hill, Lower Nob Hill|1327 Polk St|San Francisco|CA|94109|(415) 440-7662|Wine Bars
+The Cellar|Union Square, Lower Nob Hill|685 Sutter St|San Francisco|CA|94102|(415) 441-5678|Dance Clubs
+Hopwater Distribution|Nob Hill, Union Square, Lower Nob Hill|850 Bush St|San Francisco|CA|94108||Pubs
+Rye|Lower Nob Hill|688 Geary St|San Francisco|CA|94102|(415) 474-4448|Lounges
+Lush Lounge|Lower Nob Hill|1221 Polk St|San Francisco|CA|94109|(415) 771-2022|Lounges
+Owl Tree|Union Square, Lower Nob Hill|601 Post St|San Francisco|CA|94109|(415) 359-1600|Lounges
+Summer Place Cocktail Lounge|Union Square, Lower Nob Hill|801 Bush St|San Francisco|CA|94108|(415) 441-2252|Cocktail Bars
+Tender|Lower Nob Hill|854 Geary St|San Francisco|CA|94109|(415) 589-7879|Wine Bars
+Edinburgh Castle Pub|Lower Nob Hill|950 Geary St|San Francisco|CA|94109|(415) 885-4074|Pubs
+White Horse Tavern & Restaurant|Union Square, Lower Nob Hill|635 Sutter St|San Francisco|CA|94102|(415) 673-9900|Pubs
+R Bar|Lower Nob Hill|1176 Sutter St|San Francisco|CA|94109|(415) 567-7441|Dive Bars
+The Pour House|Nob Hill, Lower Nob Hill|1327 Polk St|San Francisco|CA|94109|(415) 440-7662|Wine Bars
+The Cellar|Union Square, Lower Nob Hill|685 Sutter St|San Francisco|CA|94102|(415) 441-5678|Dance Clubs
+Hopwater Distribution|Nob Hill, Union Square, Lower Nob Hill|850 Bush St|San Francisco|CA|94108||Pubs
+Rye|Lower Nob Hill|688 Geary St|San Francisco|CA|94102|(415) 474-4448|Lounges
+Lush Lounge|Lower Nob Hill|1221 Polk St|San Francisco|CA|94109|(415) 771-2022|Lounges
+Owl Tree|Union Square, Lower Nob Hill|601 Post St|San Francisco|CA|94109|(415) 359-1600|Lounges
+Summer Place Cocktail Lounge|Union Square, Lower Nob Hill|801 Bush St|San Francisco|CA|94108|(415) 441-2252|Cocktail Bars
+Tender|Lower Nob Hill|854 Geary St|San Francisco|CA|94109|(415) 589-7879|Wine Bars
+Edinburgh Castle Pub|Lower Nob Hill|950 Geary St|San Francisco|CA|94109|(415) 885-4074|Pubs
+White Horse Tavern & Restaurant|Union Square, Lower Nob Hill|635 Sutter St|San Francisco|CA|94102|(415) 673-9900|Pubs
+R Bar|Lower Nob Hill|1176 Sutter St|San Francisco|CA|94109|(415) 567-7441|Dive Bars
+The Pour House|Nob Hill, Lower Nob Hill|1327 Polk St|San Francisco|CA|94109|(415) 440-7662|Wine Bars
+The Cellar|Union Square, Lower Nob Hill|685 Sutter St|San Francisco|CA|94102|(415) 441-5678|Dance Clubs
+Hopwater Distribution|Nob Hill, Union Square, Lower Nob Hill|850 Bush St|San Francisco|CA|94108||Pubs
+Rye|Lower Nob Hill|688 Geary St|San Francisco|CA|94102|(415) 474-4448|Lounges
+Lush Lounge|Lower Nob Hill|1221 Polk St|San Francisco|CA|94109|(415) 771-2022|Lounges
+Owl Tree|Union Square, Lower Nob Hill|601 Post St|San Francisco|CA|94109|(415) 359-1600|Lounges
+Summer Place Cocktail Lounge|Union Square, Lower Nob Hill|801 Bush St|San Francisco|CA|94108|(415) 441-2252|Cocktail Bars
+Tender|Lower Nob Hill|854 Geary St|San Francisco|CA|94109|(415) 589-7879|Wine Bars
+Edinburgh Castle Pub|Lower Nob Hill|950 Geary St|San Francisco|CA|94109|(415) 885-4074|Pubs
+White Horse Tavern & Restaurant|Union Square, Lower Nob Hill|635 Sutter St|San Francisco|CA|94102|(415) 673-9900|Pubs
+R Bar|Lower Nob Hill|1176 Sutter St|San Francisco|CA|94109|(415) 567-7441|Dive Bars
+The Pour House|Nob Hill, Lower Nob Hill|1327 Polk St|San Francisco|CA|94109|(415) 440-7662|Wine Bars
+San Francisco Symphony|Civic Center, Hayes Valley|201 Van Ness Ave|San Francisco|CA|94102|(415) 864-6000|Performing Arts
+The Social Study|Fillmore, Western Addition, Lower Pacific Heights|1795 Geary Blvd|San Francisco|CA|94115|(415) 292-7417|Wine Bars
+Boom Boom Room|Lower Pacific Heights|1601 Fillmore St|San Francisco|CA|94115|(415) 673-8000|Jazz & Blues, Dance Clubs
+Wild Hare|Lower Pacific Heights|2801 California St|San Francisco|CA|94115|(415) 539-3200|Bars
+Harry’s Bar|Lower Pacific Heights|2020 Fillmore St|San Francisco|CA|94115|(415) 921-1000|Bars
+San Francisco Athletic Club|Lower Pacific Heights|1750 Divisadero St|San Francisco|CA|94115|(415) 923-8989|Sports Bars, Hot Dogs
+Playground|Japantown, Lower Pacific Heights|1705 Buchanan St|San Francisco|CA|94115|(415) 929-1471|Korean, Lounges
+Mogura|Japantown, Lower Pacific Heights|1581 Webster St|San Francisco|CA|94115|(415) 673-5636|Bars
+Wine Jar|Japantown, Lower Pacific Heights|1870 Fillmore St|San Francisco|CA|94115|(415) 931-2924|Wine Bars
+The Fishbowl Bar & Grill|Lower Pacific Heights|1854 Divisadero St|San Francisco|CA|94115|(415) 775-3630|Pubs
+Bistro SF Grill|Lower Pacific Heights|2819 California St|San Francisco|CA|94115|(415) 409-6410|Burgers, Wine Bars
+San Francisco Symphony|Civic Center, Hayes Valley|201 Van Ness Ave|San Francisco|CA|94102|(415) 864-6000|Performing Arts
+The Social Study|Fillmore, Western Addition, Lower Pacific Heights|1795 Geary Blvd|San Francisco|CA|94115|(415) 292-7417|Wine Bars
+Boom Boom Room|Lower Pacific Heights|1601 Fillmore St|San Francisco|CA|94115|(415) 673-8000|Jazz & Blues, Dance Clubs
+Wild Hare|Lower Pacific Heights|2801 California St|San Francisco|CA|94115|(415) 539-3200|Bars
+Harry’s Bar|Lower Pacific Heights|2020 Fillmore St|San Francisco|CA|94115|(415) 921-1000|Bars
+San Francisco Athletic Club|Lower Pacific Heights|1750 Divisadero St|San Francisco|CA|94115|(415) 923-8989|Sports Bars, Hot Dogs
+Playground|Japantown, Lower Pacific Heights|1705 Buchanan St|San Francisco|CA|94115|(415) 929-1471|Korean, Lounges
+Mogura|Japantown, Lower Pacific Heights|1581 Webster St|San Francisco|CA|94115|(415) 673-5636|Bars
+Wine Jar|Japantown, Lower Pacific Heights|1870 Fillmore St|San Francisco|CA|94115|(415) 931-2924|Wine Bars
+The Fishbowl Bar & Grill|Lower Pacific Heights|1854 Divisadero St|San Francisco|CA|94115|(415) 775-3630|Pubs
+Bistro SF Grill|Lower Pacific Heights|2819 California St|San Francisco|CA|94115|(415) 409-6410|Burgers, Wine Bars
+San Francisco Symphony|Civic Center, Hayes Valley|201 Van Ness Ave|San Francisco|CA|94102|(415) 864-6000|Performing Arts
+The Social Study|Fillmore, Western Addition, Lower Pacific Heights|1795 Geary Blvd|San Francisco|CA|94115|(415) 292-7417|Wine Bars
+Boom Boom Room|Lower Pacific Heights|1601 Fillmore St|San Francisco|CA|94115|(415) 673-8000|Jazz & Blues, Dance Clubs
+Wild Hare|Lower Pacific Heights|2801 California St|San Francisco|CA|94115|(415) 539-3200|Bars
+Harry’s Bar|Lower Pacific Heights|2020 Fillmore St|San Francisco|CA|94115|(415) 921-1000|Bars
+San Francisco Athletic Club|Lower Pacific Heights|1750 Divisadero St|San Francisco|CA|94115|(415) 923-8989|Sports Bars, Hot Dogs
+Playground|Japantown, Lower Pacific Heights|1705 Buchanan St|San Francisco|CA|94115|(415) 929-1471|Korean, Lounges
+Mogura|Japantown, Lower Pacific Heights|1581 Webster St|San Francisco|CA|94115|(415) 673-5636|Bars
+Wine Jar|Japantown, Lower Pacific Heights|1870 Fillmore St|San Francisco|CA|94115|(415) 931-2924|Wine Bars
+The Fishbowl Bar & Grill|Lower Pacific Heights|1854 Divisadero St|San Francisco|CA|94115|(415) 775-3630|Pubs
+Bistro SF Grill|Lower Pacific Heights|2819 California St|San Francisco|CA|94115|(415) 409-6410|Burgers, Wine Bars
+Bus Stop|Marina/Cow Hollow|1901 Union St|San Francisco|CA|94123|(415) 567-6905|Sports Bars
+The Black Horse London Pub|Marina/Cow Hollow|1514 Union St|San Francisco|CA|94123|(415) 928-2414|Pubs
+The Interval At Long Now|Marina/Cow Hollow|2 Marina Blvd, Bldg A|San Francisco|CA|94123|(415) 561-6582|Museums, Cocktail Bars
+The Tipsy Pig|Marina/Cow Hollow|2231 Chestnut St|San Francisco|CA|94123|(415) 292-2300|Gastropubs, American (New)
+Horseshoe Tavern|Marina/Cow Hollow|2024 Chestnut St|San Francisco|CA|94123|(415) 346-1430|Pubs
+Marina Lounge|Marina/Cow Hollow|2138 Chestnut St|San Francisco|CA|94123|(415) 922-1475|Lounges
+The Brick Yard Restaurant & Bar|Marina/Cow Hollow|1787 Union St|San Francisco|CA|94123|(415) 400-4712|Bars
+Black Magic Voodoo Lounge|Marina/Cow Hollow|1400 Lombard St|San Francisco|CA|94123|(415) 931-8711|Dive Bars
+CC’s Cocktails|Marina/Cow Hollow|2417 Lombard St|San Francisco|CA|94123|(415) 346-3523|Lounges
+The Brazen Head|Marina/Cow Hollow|3166 Buchanan St|San Francisco|CA|94123|(415) 921-7600|Steakhouses, Bars
+Delarosa|Marina/Cow Hollow|2175 Chestnut St|San Francisco|CA|94123|(415) 673-7100|Italian
+Bus Stop|Marina/Cow Hollow|1901 Union St|San Francisco|CA|94123|(415) 567-6905|Sports Bars
+The Black Horse London Pub|Marina/Cow Hollow|1514 Union St|San Francisco|CA|94123|(415) 928-2414|Pubs
+The Interval At Long Now|Marina/Cow Hollow|2 Marina Blvd, Bldg A|San Francisco|CA|94123|(415) 561-6582|Museums, Cocktail Bars
+The Tipsy Pig|Marina/Cow Hollow|2231 Chestnut St|San Francisco|CA|94123|(415) 292-2300|Gastropubs, American (New)
+Horseshoe Tavern|Marina/Cow Hollow|2024 Chestnut St|San Francisco|CA|94123|(415) 346-1430|Pubs
+Marina Lounge|Marina/Cow Hollow|2138 Chestnut St|San Francisco|CA|94123|(415) 922-1475|Lounges
+The Brick Yard Restaurant & Bar|Marina/Cow Hollow|1787 Union St|San Francisco|CA|94123|(415) 400-4712|Bars
+Black Magic Voodoo Lounge|Marina/Cow Hollow|1400 Lombard St|San Francisco|CA|94123|(415) 931-8711|Dive Bars
+CC’s Cocktails|Marina/Cow Hollow|2417 Lombard St|San Francisco|CA|94123|(415) 346-3523|Lounges
+The Brazen Head|Marina/Cow Hollow|3166 Buchanan St|San Francisco|CA|94123|(415) 921-7600|Steakhouses, Bars
+Delarosa|Marina/Cow Hollow|2175 Chestnut St|San Francisco|CA|94123|(415) 673-7100|Italian
+Bus Stop|Marina/Cow Hollow|1901 Union St|San Francisco|CA|94123|(415) 567-6905|Sports Bars
+The Black Horse London Pub|Marina/Cow Hollow|1514 Union St|San Francisco|CA|94123|(415) 928-2414|Pubs
+The Interval At Long Now|Marina/Cow Hollow|2 Marina Blvd, Bldg A|San Francisco|CA|94123|(415) 561-6582|Museums, Cocktail Bars
+The Tipsy Pig|Marina/Cow Hollow|2231 Chestnut St|San Francisco|CA|94123|(415) 292-2300|Gastropubs, American (New)
+Horseshoe Tavern|Marina/Cow Hollow|2024 Chestnut St|San Francisco|CA|94123|(415) 346-1430|Pubs
+Marina Lounge|Marina/Cow Hollow|2138 Chestnut St|San Francisco|CA|94123|(415) 922-1475|Lounges
+The Brick Yard Restaurant & Bar|Marina/Cow Hollow|1787 Union St|San Francisco|CA|94123|(415) 400-4712|Bars
+Black Magic Voodoo Lounge|Marina/Cow Hollow|1400 Lombard St|San Francisco|CA|94123|(415) 931-8711|Dive Bars
+CC’s Cocktails|Marina/Cow Hollow|2417 Lombard St|San Francisco|CA|94123|(415) 346-3523|Lounges
+The Brazen Head|Marina/Cow Hollow|3166 Buchanan St|San Francisco|CA|94123|(415) 921-7600|Steakhouses, Bars
+Delarosa|Marina/Cow Hollow|2175 Chestnut St|San Francisco|CA|94123|(415) 673-7100|Italian
+Bus Stop|Marina/Cow Hollow|1901 Union St|San Francisco|CA|94123|(415) 567-6905|Sports Bars
+The Black Horse London Pub|Marina/Cow Hollow|1514 Union St|San Francisco|CA|94123|(415) 928-2414|Pubs
+The Interval At Long Now|Marina/Cow Hollow|2 Marina Blvd, Bldg A|San Francisco|CA|94123|(415) 561-6582|Museums, Cocktail Bars
+The Tipsy Pig|Marina/Cow Hollow|2231 Chestnut St|San Francisco|CA|94123|(415) 292-2300|Gastropubs, American (New)
+Horseshoe Tavern|Marina/Cow Hollow|2024 Chestnut St|San Francisco|CA|94123|(415) 346-1430|Pubs
+Marina Lounge|Marina/Cow Hollow|2138 Chestnut St|San Francisco|CA|94123|(415) 922-1475|Lounges
+The Brick Yard Restaurant & Bar|Marina/Cow Hollow|1787 Union St|San Francisco|CA|94123|(415) 400-4712|Bars
+Black Magic Voodoo Lounge|Marina/Cow Hollow|1400 Lombard St|San Francisco|CA|94123|(415) 931-8711|Dive Bars
+CC’s Cocktails|Marina/Cow Hollow|2417 Lombard St|San Francisco|CA|94123|(415) 346-3523|Lounges
+The Brazen Head|Marina/Cow Hollow|3166 Buchanan St|San Francisco|CA|94123|(415) 921-7600|Steakhouses, Bars
+Delarosa|Marina/Cow Hollow|2175 Chestnut St|San Francisco|CA|94123|(415) 673-7100|Italian
+VinoRosso|Bernal Heights|629 Cortland Ave|San Francisco|CA|94110|(415) 647-1268|Italian
+Shotwell’s|Mission|3349 20th St|San Francisco|CA|94110|(415) 648-4104|Pubs
+ABV|Mission|3174 16th St|San Francisco|CA|94103|(415) 400-4748|Cocktail Bars
+Trick Dog|Mission|3010 20th St|San Francisco|CA|94110|(415) 471-2999|Cocktail Bars
+Bond|Mission|3079 16th St|San Francisco|CA|94103|(415) 735-4499|Cocktail Bars
+The Monk’s Kettle|Mission|3141 16th St|San Francisco|CA|94103|(415) 865-9523|Bars
+The Homestead|Mission|2301 Folsom St.|San Francisco|CA|94110|(415) 282-4663|Bars
+The Armory Club|Mission|1799 Mission St|San Francisco|CA|94103|(415) 431-5300|Bars
+Dr Teeth & the Electric Mayhem|Mission|2323 Mission St|San Francisco|CA|94110|(415) 285-2380|Bars
+Thieves Tavern|Mission|496 14th St|San Francisco|CA|94103|(415) 252-9082|Pubs
+Zeitgeist|Mission|199 Valencia St|San Francisco|CA|94103|(415) 255-7505|Dive Bars, Beer Gardens
+VinoRosso|Bernal Heights|629 Cortland Ave|San Francisco|CA|94110|(415) 647-1268|Italian
+Shotwell’s|Mission|3349 20th St|San Francisco|CA|94110|(415) 648-4104|Pubs
+ABV|Mission|3174 16th St|San Francisco|CA|94103|(415) 400-4748|Cocktail Bars
+Trick Dog|Mission|3010 20th St|San Francisco|CA|94110|(415) 471-2999|Cocktail Bars
+Bond|Mission|3079 16th St|San Francisco|CA|94103|(415) 735-4499|Cocktail Bars
+The Monk’s Kettle|Mission|3141 16th St|San Francisco|CA|94103|(415) 865-9523|Bars
+The Homestead|Mission|2301 Folsom St.|San Francisco|CA|94110|(415) 282-4663|Bars
+The Armory Club|Mission|1799 Mission St|San Francisco|CA|94103|(415) 431-5300|Bars
+Dr Teeth & the Electric Mayhem|Mission|2323 Mission St|San Francisco|CA|94110|(415) 285-2380|Bars
+Thieves Tavern|Mission|496 14th St|San Francisco|CA|94103|(415) 252-9082|Pubs
+Zeitgeist|Mission|199 Valencia St|San Francisco|CA|94103|(415) 255-7505|Dive Bars, Beer Gardens
+VinoRosso|Bernal Heights|629 Cortland Ave|San Francisco|CA|94110|(415) 647-1268|Italian
+Shotwell’s|Mission|3349 20th St|San Francisco|CA|94110|(415) 648-4104|Pubs
+ABV|Mission|3174 16th St|San Francisco|CA|94103|(415) 400-4748|Cocktail Bars
+Trick Dog|Mission|3010 20th St|San Francisco|CA|94110|(415) 471-2999|Cocktail Bars
+Bond|Mission|3079 16th St|San Francisco|CA|94103|(415) 735-4499|Cocktail Bars
+The Monk’s Kettle|Mission|3141 16th St|San Francisco|CA|94103|(415) 865-9523|Bars
+The Homestead|Mission|2301 Folsom St.|San Francisco|CA|94110|(415) 282-4663|Bars
+The Armory Club|Mission|1799 Mission St|San Francisco|CA|94103|(415) 431-5300|Bars
+Dr Teeth & the Electric Mayhem|Mission|2323 Mission St|San Francisco|CA|94110|(415) 285-2380|Bars
+Thieves Tavern|Mission|496 14th St|San Francisco|CA|94103|(415) 252-9082|Pubs
+Zeitgeist|Mission|199 Valencia St|San Francisco|CA|94103|(415) 255-7505|Dive Bars, Beer Gardens
+VinoRosso|Bernal Heights|629 Cortland Ave|San Francisco|CA|94110|(415) 647-1268|Italian
+Shotwell’s|Mission|3349 20th St|San Francisco|CA|94110|(415) 648-4104|Pubs
+ABV|Mission|3174 16th St|San Francisco|CA|94103|(415) 400-4748|Cocktail Bars
+Trick Dog|Mission|3010 20th St|San Francisco|CA|94110|(415) 471-2999|Cocktail Bars
+Bond|Mission|3079 16th St|San Francisco|CA|94103|(415) 735-4499|Cocktail Bars
+The Monk’s Kettle|Mission|3141 16th St|San Francisco|CA|94103|(415) 865-9523|Bars
+The Homestead|Mission|2301 Folsom St.|San Francisco|CA|94110|(415) 282-4663|Bars
+The Armory Club|Mission|1799 Mission St|San Francisco|CA|94103|(415) 431-5300|Bars
+Dr Teeth & the Electric Mayhem|Mission|2323 Mission St|San Francisco|CA|94110|(415) 285-2380|Bars
+Thieves Tavern|Mission|496 14th St|San Francisco|CA|94103|(415) 252-9082|Pubs
+Zeitgeist|Mission|199 Valencia St|San Francisco|CA|94103|(415) 255-7505|Dive Bars, Beer Gardens
+VinoRosso|Bernal Heights|629 Cortland Ave|San Francisco|CA|94110|(415) 647-1268|Italian
+Shotwell’s|Mission|3349 20th St|San Francisco|CA|94110|(415) 648-4104|Pubs
+ABV|Mission|3174 16th St|San Francisco|CA|94103|(415) 400-4748|Cocktail Bars
+Trick Dog|Mission|3010 20th St|San Francisco|CA|94110|(415) 471-2999|Cocktail Bars
+Bond|Mission|3079 16th St|San Francisco|CA|94103|(415) 735-4499|Cocktail Bars
+The Monk’s Kettle|Mission|3141 16th St|San Francisco|CA|94103|(415) 865-9523|Bars
+The Homestead|Mission|2301 Folsom St.|San Francisco|CA|94110|(415) 282-4663|Bars
+The Armory Club|Mission|1799 Mission St|San Francisco|CA|94103|(415) 431-5300|Bars
+Dr Teeth & the Electric Mayhem|Mission|2323 Mission St|San Francisco|CA|94110|(415) 285-2380|Bars
+Thieves Tavern|Mission|496 14th St|San Francisco|CA|94103|(415) 252-9082|Pubs
+Zeitgeist|Mission|199 Valencia St|San Francisco|CA|94103|(415) 255-7505|Dive Bars, Beer Gardens
+VinoRosso|Bernal Heights|629 Cortland Ave|San Francisco|CA|94110|(415) 647-1268|Italian
+Shotwell’s|Mission|3349 20th St|San Francisco|CA|94110|(415) 648-4104|Pubs
+ABV|Mission|3174 16th St|San Francisco|CA|94103|(415) 400-4748|Cocktail Bars
+Trick Dog|Mission|3010 20th St|San Francisco|CA|94110|(415) 471-2999|Cocktail Bars
+Bond|Mission|3079 16th St|San Francisco|CA|94103|(415) 735-4499|Cocktail Bars
+The Monk’s Kettle|Mission|3141 16th St|San Francisco|CA|94103|(415) 865-9523|Bars
+The Homestead|Mission|2301 Folsom St.|San Francisco|CA|94110|(415) 282-4663|Bars
+The Armory Club|Mission|1799 Mission St|San Francisco|CA|94103|(415) 431-5300|Bars
+Dr Teeth & the Electric Mayhem|Mission|2323 Mission St|San Francisco|CA|94110|(415) 285-2380|Bars
+Thieves Tavern|Mission|496 14th St|San Francisco|CA|94103|(415) 252-9082|Pubs
+Zeitgeist|Mission|199 Valencia St|San Francisco|CA|94103|(415) 255-7505|Dive Bars, Beer Gardens
+VinoRosso|Bernal Heights|629 Cortland Ave|San Francisco|CA|94110|(415) 647-1268|Italian
+Shotwell’s|Mission|3349 20th St|San Francisco|CA|94110|(415) 648-4104|Pubs
+ABV|Mission|3174 16th St|San Francisco|CA|94103|(415) 400-4748|Cocktail Bars
+Trick Dog|Mission|3010 20th St|San Francisco|CA|94110|(415) 471-2999|Cocktail Bars
+Bond|Mission|3079 16th St|San Francisco|CA|94103|(415) 735-4499|Cocktail Bars
+The Monk’s Kettle|Mission|3141 16th St|San Francisco|CA|94103|(415) 865-9523|Bars
+The Homestead|Mission|2301 Folsom St.|San Francisco|CA|94110|(415) 282-4663|Bars
+The Armory Club|Mission|1799 Mission St|San Francisco|CA|94103|(415) 431-5300|Bars
+Dr Teeth & the Electric Mayhem|Mission|2323 Mission St|San Francisco|CA|94110|(415) 285-2380|Bars
+Thieves Tavern|Mission|496 14th St|San Francisco|CA|94103|(415) 252-9082|Pubs
+Zeitgeist|Mission|199 Valencia St|San Francisco|CA|94103|(415) 255-7505|Dive Bars, Beer Gardens
+VinoRosso|Bernal Heights|629 Cortland Ave|San Francisco|CA|94110|(415) 647-1268|Italian
+Shotwell’s|Mission|3349 20th St|San Francisco|CA|94110|(415) 648-4104|Pubs
+ABV|Mission|3174 16th St|San Francisco|CA|94103|(415) 400-4748|Cocktail Bars
+Trick Dog|Mission|3010 20th St|San Francisco|CA|94110|(415) 471-2999|Cocktail Bars
+Bond|Mission|3079 16th St|San Francisco|CA|94103|(415) 735-4499|Cocktail Bars
+The Monk’s Kettle|Mission|3141 16th St|San Francisco|CA|94103|(415) 865-9523|Bars
+The Homestead|Mission|2301 Folsom St.|San Francisco|CA|94110|(415) 282-4663|Bars
+The Armory Club|Mission|1799 Mission St|San Francisco|CA|94103|(415) 431-5300|Bars
+Dr Teeth & the Electric Mayhem|Mission|2323 Mission St|San Francisco|CA|94110|(415) 285-2380|Bars
+Thieves Tavern|Mission|496 14th St|San Francisco|CA|94103|(415) 252-9082|Pubs
+Zeitgeist|Mission|199 Valencia St|San Francisco|CA|94103|(415) 255-7505|Dive Bars, Beer Gardens
+VinoRosso|Bernal Heights|629 Cortland Ave|San Francisco|CA|94110|(415) 647-1268|Italian
+Shotwell’s|Mission|3349 20th St|San Francisco|CA|94110|(415) 648-4104|Pubs
+ABV|Mission|3174 16th St|San Francisco|CA|94103|(415) 400-4748|Cocktail Bars
+Trick Dog|Mission|3010 20th St|San Francisco|CA|94110|(415) 471-2999|Cocktail Bars
+Bond|Mission|3079 16th St|San Francisco|CA|94103|(415) 735-4499|Cocktail Bars
+The Monk’s Kettle|Mission|3141 16th St|San Francisco|CA|94103|(415) 865-9523|Bars
+The Homestead|Mission|2301 Folsom St.|San Francisco|CA|94110|(415) 282-4663|Bars
+The Armory Club|Mission|1799 Mission St|San Francisco|CA|94103|(415) 431-5300|Bars
+Dr Teeth & the Electric Mayhem|Mission|2323 Mission St|San Francisco|CA|94110|(415) 285-2380|Bars
+Thieves Tavern|Mission|496 14th St|San Francisco|CA|94103|(415) 252-9082|Pubs
+Zeitgeist|Mission|199 Valencia St|San Francisco|CA|94103|(415) 255-7505|Dive Bars, Beer Gardens
+Mission Rock Resort|Potrero Hill|817 Terry Francois Blvd|San Francisco|CA|94158|(415) 701-7625|Seafood, Bars
+Lucky Strike|SoMa, Mission Bay|200 King St|San Francisco|CA|94107|(415) 400-8260|Bowling, American (New)
+The Pub|SoMa, Mission Bay|1675 Owens St|San Francisco|CA|94158|(415) 514-4748|Pubs, Burgers
+Tsunami Mission Bay|SoMa, Mission Bay|301 King St|San Francisco|CA|94158|(415) 284-0111|Japanese, Bars
+Oda|SoMa, Mission Bay|1500 Owens St|San Francisco|CA|94158|(415) 558-9450|American (New), Sandwiches
+Hawthorn|Financial District, Union Square|46 Geary St|San Francisco|CA|94108|(415) 693-9255|Cocktail Bars
+Pissed Off Pete’s|Excelsior, Mission Terrace, Outer Mission|4528 Mission St|San Francisco|CA|94112|(415) 584-5122|Dive Bars, Pubs
+Spitfire Rose|Mission Terrace, Outer Mission|1790 San Jose Avenue|San Francisco|CA|94112|(415) 334-4511|Bars
+Doctor’s Lounge|Excelsior, Mission Terrace, Outer Mission|4826 Mission St|San Francisco|CA|94112|(415) 586-9730|Breakfast & Brunch
+Bottom’s Up|Mission Terrace, Outer Mission|4704 Mission St|San Francisco|CA|94112|(415) 337-1678|Lounges
+Tropi-Gala|Mission Terrace, Outer Mission|358 Ocean Ave|San Francisco|CA|94112|(415) 333-7102|Music Venues, Dance Clubs
+Noir Lounge|Hayes Valley|581 Hayes St|San Francisco|CA|94102|(415) 431-6647|Wine Bars, American (Traditional)
+Bar 821|NoPa|821 Divisadero St|San Francisco|CA|94117||Lounges
+Barrel Head Brewhouse|NoPa|1785 Fulton St|San Francisco|CA|94117|(415) 416-6989|Breweries, Bars
+Fly Bar|Alamo Square, NoPa|762 Divisadero St|San Francisco|CA|94117|(415) 931-4359|Bars
+Mini Bar SF|NoPa|837 Divisadero St|San Francisco|CA|94117|(415) 525-3565|Lounges
+Madrone Art Bar|Alamo Square, NoPa|500 Divisadero St|San Francisco|CA|94117|(415) 241-0202|Lounges, Dance Clubs
+Candybar|NoPa|1335 Fulton St|San Francisco|CA|94117|(415) 673-7078|Desserts
+El Mercado Urbano at La Urbana|NoPa|661 Divisadero St|San Francisco|CA|94117|(415) 440-4500|Cocktail Bars
+Wine Kitchen|NoPa|507 Divisadero St|San Francisco|CA|94117|(415) 525-3485|Tapas/Small Plates
+Club Waziema|NoPa|543 Divisadero St|San Francisco|CA|94117|(415) 346-6641|Ethiopian, Music Venues
+Sloni’s Poolhaus|NoPa|507 Divisidero St|San Francisco|CA|94117||Pubs
+E&O Kitchen and Bar|Financial District, Union Square|314 Sutter St|San Francisco|CA|94108|(415) 693-0303|Bars, Venues & Event Spaces
+Hopwater Distribution|Nob Hill, Union Square, Lower Nob Hill|850 Bush St|San Francisco|CA|94108||Pubs
+Liquid Gold|Nob Hill|1040 Hyde St|San Francisco|CA|94109|(415) 660-5142|Lounges
+Zeki’s Bar|Nob Hill|1319 California St|San Francisco|CA|94109|(415) 928-0677|Pubs
+robberbaron|Nob Hill|2032 Polk St|San Francisco|CA|94109|(415) 516-6945|Wine Bars
+Hi-Lo Club|Nob Hill|1423 Polk St|San Francisco|CA|94109||Cocktail Bars
+Soda Popinski’s|Nob Hill|1548 California St|San Francisco|CA|94109|(415) 857-1548|Bars
+Amélie|Nob Hill|1754 Polk St|San Francisco|CA|94109|(415) 292-6916|Wine Bars, French
+Harper & Rye|Nob Hill|1695 Polk St|San Francisco|CA|94109||Cocktail Bars
+Nook|Nob Hill|1500 Hyde St|San Francisco|CA|94109|(415) 447-4100|Wine Bars
+Cabin|Nob Hill|1750 Polk St|San Francisco|CA|94109|(415) 549-7111|Cocktail Bars
+E&O Kitchen and Bar|Financial District, Union Square|314 Sutter St|San Francisco|CA|94108|(415) 693-0303|Bars, Venues & Event Spaces
+Hopwater Distribution|Nob Hill, Union Square, Lower Nob Hill|850 Bush St|San Francisco|CA|94108||Pubs
+Liquid Gold|Nob Hill|1040 Hyde St|San Francisco|CA|94109|(415) 660-5142|Lounges
+Zeki’s Bar|Nob Hill|1319 California St|San Francisco|CA|94109|(415) 928-0677|Pubs
+robberbaron|Nob Hill|2032 Polk St|San Francisco|CA|94109|(415) 516-6945|Wine Bars
+Hi-Lo Club|Nob Hill|1423 Polk St|San Francisco|CA|94109||Cocktail Bars
+Soda Popinski’s|Nob Hill|1548 California St|San Francisco|CA|94109|(415) 857-1548|Bars
+Amélie|Nob Hill|1754 Polk St|San Francisco|CA|94109|(415) 292-6916|Wine Bars, French
+Harper & Rye|Nob Hill|1695 Polk St|San Francisco|CA|94109||Cocktail Bars
+Nook|Nob Hill|1500 Hyde St|San Francisco|CA|94109|(415) 447-4100|Wine Bars
+Cabin|Nob Hill|1750 Polk St|San Francisco|CA|94109|(415) 549-7111|Cocktail Bars
+E&O Kitchen and Bar|Financial District, Union Square|314 Sutter St|San Francisco|CA|94108|(415) 693-0303|Bars, Venues & Event Spaces
+Hopwater Distribution|Nob Hill, Union Square, Lower Nob Hill|850 Bush St|San Francisco|CA|94108||Pubs
+Liquid Gold|Nob Hill|1040 Hyde St|San Francisco|CA|94109|(415) 660-5142|Lounges
+Zeki’s Bar|Nob Hill|1319 California St|San Francisco|CA|94109|(415) 928-0677|Pubs
+robberbaron|Nob Hill|2032 Polk St|San Francisco|CA|94109|(415) 516-6945|Wine Bars
+Hi-Lo Club|Nob Hill|1423 Polk St|San Francisco|CA|94109||Cocktail Bars
+Soda Popinski’s|Nob Hill|1548 California St|San Francisco|CA|94109|(415) 857-1548|Bars
+Amélie|Nob Hill|1754 Polk St|San Francisco|CA|94109|(415) 292-6916|Wine Bars, French
+Harper & Rye|Nob Hill|1695 Polk St|San Francisco|CA|94109||Cocktail Bars
+Nook|Nob Hill|1500 Hyde St|San Francisco|CA|94109|(415) 447-4100|Wine Bars
+Cabin|Nob Hill|1750 Polk St|San Francisco|CA|94109|(415) 549-7111|Cocktail Bars
+Mars Bar & Restaurant|SoMa|798 Brannan St|San Francisco|CA|94103|(415) 621-6277|Bars
+Caskhouse|Noe Valley|3853 24th St|San Francisco|CA|94114|(415) 834-5005|Bars
+Valley Tavern|Noe Valley|4054 24th St|San Francisco|CA|94114|(415) 285-0674|Pubs
+Dolores Corner|Noe Valley|1600 Dolores St|San Francisco|CA|94110|(415) 695-1745|Sports Bars
+The Dubliner|Noe Valley|3838 24th St|San Francisco|CA|94114|(415) 826-2279|Pubs
+The Peaks Bar Noe Valley|Noe Valley|1316 Castro St|San Francisco|CA|94114|(415) 826-0100|Dive Bars, Pubs
+Dirty Trix Saloon|Bernal Heights, Noe Valley|1600 Dolores St|San Francisco|CA|94110|(415) 695-1745|Sports Bars
+San Francisco Live Arts|Noe Valley|1021 Sanchez St|San Francisco|CA|94114|(415) 454-5238|Bars
+B.O.V. Deck|Noe Valley|3930 24th St|San Francisco|CA|94114||Bars
+The Bar At Dolores|Noe Valley|208 29th St|San Francisco|CA|94131||Bars
+Nick’s Crispy Tacos|Russian Hill|1500 Broadway|San Francisco|CA|94109|(415) 409-8226|Mexican
+Gold Dust Lounge|Fisherman's Wharf, North Beach/Telegraph Hill|165 Jefferson St|San Francisco|CA|94133|(415) 397-1695|Lounges
+The Red Jack Saloon|North Beach/Telegraph Hill|131 Bay St|San Francisco|CA|94133|(415) 989-0700|Sports Bars
+Beer 39|Fisherman's Wharf, North Beach/Telegraph Hill|Pier 39|San Francisco|CA|94133|(415) 421-2699|Bars
+The Boardroom|North Beach/Telegraph Hill, Russian Hill|1609 Powell St|San Francisco|CA|94133|(415) 982-8898|Bars
+Church Key|North Beach/Telegraph Hill|1402 Grant Ave|San Francisco|CA|94133|(415) 963-1713|Lounges
+The Saloon|North Beach/Telegraph Hill|1232 Grant Ave|San Francisco|CA|94133|(415) 989-7666|Jazz & Blues
+15 Romolo|North Beach/Telegraph Hill|15 Romolo Pl|San Francisco|CA|94133|(415) 398-1359|Tapas/Small Plates
+Tony Nik’s Cafe|North Beach/Telegraph Hill|1534 Stockton St|San Francisco|CA|94133|(415) 693-0990|Lounges
+Carbon|North Beach/Telegraph Hill|383 Bay St|San Francisco|CA|94133|(415) 217-8882|Lounges, Dance Clubs
+Score! Bar and Lounge|Chinatown, North Beach/Telegraph Hill|490 Broadway|San Francisco|CA|94133|(415) 992-2790|Sports Bars, Music Venues
+Nick’s Crispy Tacos|Russian Hill|1500 Broadway|San Francisco|CA|94109|(415) 409-8226|Mexican
+Gold Dust Lounge|Fisherman's Wharf, North Beach/Telegraph Hill|165 Jefferson St|San Francisco|CA|94133|(415) 397-1695|Lounges
+The Red Jack Saloon|North Beach/Telegraph Hill|131 Bay St|San Francisco|CA|94133|(415) 989-0700|Sports Bars
+Beer 39|Fisherman's Wharf, North Beach/Telegraph Hill|Pier 39|San Francisco|CA|94133|(415) 421-2699|Bars
+The Boardroom|North Beach/Telegraph Hill, Russian Hill|1609 Powell St|San Francisco|CA|94133|(415) 982-8898|Bars
+Church Key|North Beach/Telegraph Hill|1402 Grant Ave|San Francisco|CA|94133|(415) 963-1713|Lounges
+The Saloon|North Beach/Telegraph Hill|1232 Grant Ave|San Francisco|CA|94133|(415) 989-7666|Jazz & Blues
+15 Romolo|North Beach/Telegraph Hill|15 Romolo Pl|San Francisco|CA|94133|(415) 398-1359|Tapas/Small Plates
+Tony Nik’s Cafe|North Beach/Telegraph Hill|1534 Stockton St|San Francisco|CA|94133|(415) 693-0990|Lounges
+Carbon|North Beach/Telegraph Hill|383 Bay St|San Francisco|CA|94133|(415) 217-8882|Lounges, Dance Clubs
+Score! Bar and Lounge|Chinatown, North Beach/Telegraph Hill|490 Broadway|San Francisco|CA|94133|(415) 992-2790|Sports Bars, Music Venues
+Nick’s Crispy Tacos|Russian Hill|1500 Broadway|San Francisco|CA|94109|(415) 409-8226|Mexican
+Gold Dust Lounge|Fisherman's Wharf, North Beach/Telegraph Hill|165 Jefferson St|San Francisco|CA|94133|(415) 397-1695|Lounges
+The Red Jack Saloon|North Beach/Telegraph Hill|131 Bay St|San Francisco|CA|94133|(415) 989-0700|Sports Bars
+Beer 39|Fisherman's Wharf, North Beach/Telegraph Hill|Pier 39|San Francisco|CA|94133|(415) 421-2699|Bars
+The Boardroom|North Beach/Telegraph Hill, Russian Hill|1609 Powell St|San Francisco|CA|94133|(415) 982-8898|Bars
+Church Key|North Beach/Telegraph Hill|1402 Grant Ave|San Francisco|CA|94133|(415) 963-1713|Lounges
+The Saloon|North Beach/Telegraph Hill|1232 Grant Ave|San Francisco|CA|94133|(415) 989-7666|Jazz & Blues
+15 Romolo|North Beach/Telegraph Hill|15 Romolo Pl|San Francisco|CA|94133|(415) 398-1359|Tapas/Small Plates
+Tony Nik’s Cafe|North Beach/Telegraph Hill|1534 Stockton St|San Francisco|CA|94133|(415) 693-0990|Lounges
+Carbon|North Beach/Telegraph Hill|383 Bay St|San Francisco|CA|94133|(415) 217-8882|Lounges, Dance Clubs
+Score! Bar and Lounge|Chinatown, North Beach/Telegraph Hill|490 Broadway|San Francisco|CA|94133|(415) 992-2790|Sports Bars, Music Venues
+Nick’s Crispy Tacos|Russian Hill|1500 Broadway|San Francisco|CA|94109|(415) 409-8226|Mexican
+Gold Dust Lounge|Fisherman's Wharf, North Beach/Telegraph Hill|165 Jefferson St|San Francisco|CA|94133|(415) 397-1695|Lounges
+The Red Jack Saloon|North Beach/Telegraph Hill|131 Bay St|San Francisco|CA|94133|(415) 989-0700|Sports Bars
+Beer 39|Fisherman's Wharf, North Beach/Telegraph Hill|Pier 39|San Francisco|CA|94133|(415) 421-2699|Bars
+The Boardroom|North Beach/Telegraph Hill, Russian Hill|1609 Powell St|San Francisco|CA|94133|(415) 982-8898|Bars
+Church Key|North Beach/Telegraph Hill|1402 Grant Ave|San Francisco|CA|94133|(415) 963-1713|Lounges
+The Saloon|North Beach/Telegraph Hill|1232 Grant Ave|San Francisco|CA|94133|(415) 989-7666|Jazz & Blues
+15 Romolo|North Beach/Telegraph Hill|15 Romolo Pl|San Francisco|CA|94133|(415) 398-1359|Tapas/Small Plates
+Tony Nik’s Cafe|North Beach/Telegraph Hill|1534 Stockton St|San Francisco|CA|94133|(415) 693-0990|Lounges
+Carbon|North Beach/Telegraph Hill|383 Bay St|San Francisco|CA|94133|(415) 217-8882|Lounges, Dance Clubs
+Score! Bar and Lounge|Chinatown, North Beach/Telegraph Hill|490 Broadway|San Francisco|CA|94133|(415) 992-2790|Sports Bars, Music Venues
+Nick’s Crispy Tacos|Russian Hill|1500 Broadway|San Francisco|CA|94109|(415) 409-8226|Mexican
+Gold Dust Lounge|Fisherman's Wharf, North Beach/Telegraph Hill|165 Jefferson St|San Francisco|CA|94133|(415) 397-1695|Lounges
+The Red Jack Saloon|North Beach/Telegraph Hill|131 Bay St|San Francisco|CA|94133|(415) 989-0700|Sports Bars
+Beer 39|Fisherman's Wharf, North Beach/Telegraph Hill|Pier 39|San Francisco|CA|94133|(415) 421-2699|Bars
+The Boardroom|North Beach/Telegraph Hill, Russian Hill|1609 Powell St|San Francisco|CA|94133|(415) 982-8898|Bars
+Church Key|North Beach/Telegraph Hill|1402 Grant Ave|San Francisco|CA|94133|(415) 963-1713|Lounges
+The Saloon|North Beach/Telegraph Hill|1232 Grant Ave|San Francisco|CA|94133|(415) 989-7666|Jazz & Blues
+15 Romolo|North Beach/Telegraph Hill|15 Romolo Pl|San Francisco|CA|94133|(415) 398-1359|Tapas/Small Plates
+Tony Nik’s Cafe|North Beach/Telegraph Hill|1534 Stockton St|San Francisco|CA|94133|(415) 693-0990|Lounges
+Carbon|North Beach/Telegraph Hill|383 Bay St|San Francisco|CA|94133|(415) 217-8882|Lounges, Dance Clubs
+Score! Bar and Lounge|Chinatown, North Beach/Telegraph Hill|490 Broadway|San Francisco|CA|94133|(415) 992-2790|Sports Bars, Music Venues
+Nick’s Crispy Tacos|Russian Hill|1500 Broadway|San Francisco|CA|94109|(415) 409-8226|Mexican
+Gold Dust Lounge|Fisherman's Wharf, North Beach/Telegraph Hill|165 Jefferson St|San Francisco|CA|94133|(415) 397-1695|Lounges
+The Red Jack Saloon|North Beach/Telegraph Hill|131 Bay St|San Francisco|CA|94133|(415) 989-0700|Sports Bars
+Beer 39|Fisherman's Wharf, North Beach/Telegraph Hill|Pier 39|San Francisco|CA|94133|(415) 421-2699|Bars
+The Boardroom|North Beach/Telegraph Hill, Russian Hill|1609 Powell St|San Francisco|CA|94133|(415) 982-8898|Bars
+Church Key|North Beach/Telegraph Hill|1402 Grant Ave|San Francisco|CA|94133|(415) 963-1713|Lounges
+The Saloon|North Beach/Telegraph Hill|1232 Grant Ave|San Francisco|CA|94133|(415) 989-7666|Jazz & Blues
+15 Romolo|North Beach/Telegraph Hill|15 Romolo Pl|San Francisco|CA|94133|(415) 398-1359|Tapas/Small Plates
+Tony Nik’s Cafe|North Beach/Telegraph Hill|1534 Stockton St|San Francisco|CA|94133|(415) 693-0990|Lounges
+Carbon|North Beach/Telegraph Hill|383 Bay St|San Francisco|CA|94133|(415) 217-8882|Lounges, Dance Clubs
+Score! Bar and Lounge|Chinatown, North Beach/Telegraph Hill|490 Broadway|San Francisco|CA|94133|(415) 992-2790|Sports Bars, Music Venues
+Cha Cha Cha|Mission|2327 Mission St|San Francisco|CA|94110|(415) 824-1502|Tapas Bars
+Pissed Off Pete’s|Excelsior, Mission Terrace, Outer Mission|4528 Mission St|San Francisco|CA|94112|(415) 584-5122|Dive Bars, Pubs
+Spitfire Rose|Mission Terrace, Outer Mission|1790 San Jose Avenue|San Francisco|CA|94112|(415) 334-4511|Bars
+Doctor’s Lounge|Excelsior, Mission Terrace, Outer Mission|4826 Mission St|San Francisco|CA|94112|(415) 586-9730|Breakfast & Brunch
+Bottom’s Up|Mission Terrace, Outer Mission|4704 Mission St|San Francisco|CA|94112|(415) 337-1678|Lounges
+Friends Bar|Sunnyside, Outer Mission|558 Monterey Blvd|San Francisco|CA|94127|(415) 999-1338|Dive Bars
+The Connection|Outer Mission|5740 Mission St|San Francisco|CA|94112|(415) 334-6172|Dive Bars
+Tropi-Gala|Mission Terrace, Outer Mission|358 Ocean Ave|San Francisco|CA|94112|(415) 333-7102|Music Venues, Dance Clubs
+Tip Top Del Club Jalisco|Bernal Heights, Outer Mission|3772 Mission St|San Francisco|CA|94110||Dive Bars
+Amélie|Nob Hill|1754 Polk St|San Francisco|CA|94109|(415) 292-6916|Wine Bars, French
+Trad’r Sam|Outer Richmond|6150 Geary Blvd|San Francisco|CA|94121|(415) 221-0773|Dive Bars
+The Blarney Stone|Outer Richmond|5625 Geary Blvd|San Francisco|CA|94121|(415) 386-9914|Pubs
+Hockey Haven|Outer Richmond|3625 Balboa Street|San Francisco|CA|94121|(415) 752-4413|Bars
+Tee Off Bar|Outer Richmond|3129 Clement St|San Francisco|CA|94121|(415) 752-5439|Dive Bars
+Layaly|Outer Richmond|2435 Clement St|San Francisco|CA|94121|(415) 668-1676|Middle Eastern, Wine Bars
+Marla Bakery|Outer Richmond|3619 Balboa St|San Francisco|CA|94121|(415) 742-4379|Bakeries, Wine Bars
+Tia Margarita Mexican Restaurant|Outer Richmond|300 19th Ave|San Francisco|CA|94121|(415) 752-9274|Mexican
+Lincoln Park Bar & Grill|Outer Richmond|300 34th Ave|San Francisco|CA|94121|(415) 221-2254|Bars
+Mars Bar & Restaurant|SoMa|798 Brannan St|San Francisco|CA|94103|(415) 621-6277|Bars
+Durty Nelly’s|Outer Sunset|2328 Irving St|San Francisco|CA|94122|(415) 664-2555|Irish
+Pittsburgh’s Pub|Outer Sunset|4207 Judah St|San Francisco|CA|94122|(415) 664-3926|Dive Bars
+Chug Pub|Outer Sunset|1849 Lincoln Way|San Francisco|CA|94122|(415) 242-9930|Sports Bars
+OneUp Bar|Outer Sunset|1232 Noriega St|San Francisco|CA|94122||Pool Halls
+Tiki Haven|Outer Sunset|1334 Noriega St|San Francisco|CA|94122|(415) 731-3757|Dive Bars
+The Taco Shop At Underdog’s|Outer Sunset|1824 Irving St|San Francisco|CA|94122|(415) 566-8700|Sports Bars
+Flanahan’s Pub|Outer Sunset|3805 Noriega St|San Francisco|CA|94122|(415) 665-2424|Pubs
+Toyose|Outer Sunset|3814 Noriega St|San Francisco|CA|94122|(415) 731-0232|Korean
+Silver Spur|Outer Sunset|1914 Irving St|San Francisco|CA|94122|(415) 564-4250|Dive Bars
+Fire Fly Sports Bar|Outer Sunset|2457 Noriega St|San Francisco|CA|94122|(415) 682-8877|Sports Bars
+Mars Bar & Restaurant|SoMa|798 Brannan St|San Francisco|CA|94103|(415) 621-6277|Bars
+Durty Nelly’s|Outer Sunset|2328 Irving St|San Francisco|CA|94122|(415) 664-2555|Irish
+Pittsburgh’s Pub|Outer Sunset|4207 Judah St|San Francisco|CA|94122|(415) 664-3926|Dive Bars
+Chug Pub|Outer Sunset|1849 Lincoln Way|San Francisco|CA|94122|(415) 242-9930|Sports Bars
+OneUp Bar|Outer Sunset|1232 Noriega St|San Francisco|CA|94122||Pool Halls
+Tiki Haven|Outer Sunset|1334 Noriega St|San Francisco|CA|94122|(415) 731-3757|Dive Bars
+The Taco Shop At Underdog’s|Outer Sunset|1824 Irving St|San Francisco|CA|94122|(415) 566-8700|Sports Bars
+Flanahan’s Pub|Outer Sunset|3805 Noriega St|San Francisco|CA|94122|(415) 665-2424|Pubs
+Toyose|Outer Sunset|3814 Noriega St|San Francisco|CA|94122|(415) 731-0232|Korean
+Silver Spur|Outer Sunset|1914 Irving St|San Francisco|CA|94122|(415) 564-4250|Dive Bars
+Fire Fly Sports Bar|Outer Sunset|2457 Noriega St|San Francisco|CA|94122|(415) 682-8877|Sports Bars
+AsiaSF|SoMa|201 9th St|San Francisco|CA|94103|(415) 255-2742|Asian Fusion
+Lion Pub|Pacific Heights|2062 Divisadero St|San Francisco|CA|94115|(415) 567-6565|Bars
+Palmer’s|Pacific Heights|2298 Fillmore St|San Francisco|CA|94115|(415) 732-7777|Bars
+Swank Cocktail Club|Pacific Heights, Presidio Heights|444 Presidio Avenue|San Francisco|CA|94115|(415) 579-2488|Lounges
+Food Trattoria & Wine Bar|Pacific Heights|2800 California St|San Francisco|CA|94115|(415) 928-3728|Mediterranean
+Smokestack|Dogpatch, Potrero Hill|2505 3rd St|San Francisco|CA|94107|(415) 864-7468|Bars, Barbeque
+The Pub At SFSU|Parkmerced|1650 Holloway Ave, Ste C-134|San Francisco|CA|94132|(415) 338-3487|Pubs
+The Lister Bar|Parkmerced|77 Cambon Dr|San Francisco|CA|94132|(415) 584-4445|Bars, Pool Halls
+Hawthorn|Financial District, Union Square|46 Geary St|San Francisco|CA|94108|(415) 693-9255|Cocktail Bars
+The Riptide|Parkside|3639 Taraval St|San Francisco|CA|94116|(415) 681-8433|Pubs
+Parkside Tavern|Parkside|1940 Taraval St|San Francisco|CA|94116|(415) 731-8900|Bars, American (Traditional)
+The Four Deuces|Parkside|2319 Taraval St|San Francisco|CA|94116|(415) 566-9122|Pubs
+The Spot Lounge|Parkside|2325 Taraval St|San Francisco|CA|94116|(415) 564-4464|Bars, Korean
+Tonight Soju Bar|Parkside|733 Taraval St|San Francisco|CA|94116|(415) 564-6400|Korean
+Dragon Lounge|Parkside|1355 Taraval St|San Francisco|CA|94116|(415) 566-7700|Bars
+Shannon Arms|Parkside|915 Taraval St|San Francisco|CA|94116|(415) 665-1223|Pubs
+Grandma’s Saloon|Parkside|1016 Taraval St|San Francisco|CA|94116|(415) 665-7892|Pubs
+Mission Rock Resort|Potrero Hill|817 Terry Francois Blvd|San Francisco|CA|94158|(415) 701-7625|Seafood, Bars
+El Toro Night Club|Excelsior, Portola|2470 San Bruno Ave|San Francisco|CA|94134|(415) 468-0670|Bars
+New Judnich’s|Excelsior, Portola|2888 San Bruno Ave|San Francisco|CA|94134|(415) 468-2600|Bars
+Mission Rock Resort|Potrero Hill|817 Terry Francois Blvd|San Francisco|CA|94158|(415) 701-7625|Seafood, Bars
+Third Rail|Dogpatch, Potrero Hill|628 20th St|San Francisco|CA|94107|(415) 252-7966|Cocktail Bars
+Thee Parkside|Potrero Hill|1600 17th St|San Francisco|CA|94107|(415) 252-1330|Bars
+Dogpatch Saloon|Dogpatch, Potrero Hill|2496 3rd St|San Francisco|CA|94107|(415) 643-8592|Bars
+Yield Wine Bar|Dogpatch, Potrero Hill|2490 3rd St|San Francisco|CA|94107|(415) 401-8984|Wine Bars
+Blooms Saloon|Potrero Hill|1318 18th St|San Francisco|CA|94107|(415) 552-6707|Bars
+Smokestack|Dogpatch, Potrero Hill|2505 3rd St|San Francisco|CA|94107|(415) 864-7468|Bars, Barbeque
+The Ramp|Dogpatch, Potrero Hill|855 Terry Francois St|San Francisco|CA|94158|(415) 621-2378|Dive Bars, Seafood
+Mission Rock Resort|Potrero Hill|817 Terry Francois Blvd|San Francisco|CA|94158|(415) 701-7625|Seafood, Bars
+Connecticut Yankee|Potrero Hill|100 Connecticut St|San Francisco|CA|94107|(415) 552-4440|Sports Bars
+La Stazione Coffee & Wine Bar|Potrero Hill|701 Pennsylvania Ave|San Francisco|CA|94107||Coffee & Tea, Wine Bars
+Mission Rock Resort|Potrero Hill|817 Terry Francois Blvd|San Francisco|CA|94158|(415) 701-7625|Seafood, Bars
+Third Rail|Dogpatch, Potrero Hill|628 20th St|San Francisco|CA|94107|(415) 252-7966|Cocktail Bars
+Thee Parkside|Potrero Hill|1600 17th St|San Francisco|CA|94107|(415) 252-1330|Bars
+Dogpatch Saloon|Dogpatch, Potrero Hill|2496 3rd St|San Francisco|CA|94107|(415) 643-8592|Bars
+Yield Wine Bar|Dogpatch, Potrero Hill|2490 3rd St|San Francisco|CA|94107|(415) 401-8984|Wine Bars
+Blooms Saloon|Potrero Hill|1318 18th St|San Francisco|CA|94107|(415) 552-6707|Bars
+Smokestack|Dogpatch, Potrero Hill|2505 3rd St|San Francisco|CA|94107|(415) 864-7468|Bars, Barbeque
+The Ramp|Dogpatch, Potrero Hill|855 Terry Francois St|San Francisco|CA|94158|(415) 621-2378|Dive Bars, Seafood
+Mission Rock Resort|Potrero Hill|817 Terry Francois Blvd|San Francisco|CA|94158|(415) 701-7625|Seafood, Bars
+Connecticut Yankee|Potrero Hill|100 Connecticut St|San Francisco|CA|94107|(415) 552-4440|Sports Bars
+La Stazione Coffee & Wine Bar|Potrero Hill|701 Pennsylvania Ave|San Francisco|CA|94107||Coffee & Tea, Wine Bars
+Noir Lounge|Hayes Valley|581 Hayes St|San Francisco|CA|94102|(415) 431-6647|Wine Bars, American (Traditional)
+Presidio Social Club|Presidio|563 Ruger St|San Francisco|CA|94129|(415) 885-1888|American (New)
+Irish Mike’s|Presidio|Montgomery St|San Francisco|CA|94131|(973) 441-4100|Irish Pub
+Mars Bar & Restaurant|SoMa|798 Brannan St|San Francisco|CA|94103|(415) 621-6277|Bars
+Swank Cocktail Club|Pacific Heights, Presidio Heights|444 Presidio Avenue|San Francisco|CA|94115|(415) 579-2488|Lounges
+Golden Gate Golf Park Cafe|Presidio Heights|970 47th Ave|San Francisco|CA|94121|(415) 751-8987|Dive Bars
+Feinstein’s at the Nikko|Union Square|222 Mason St|San Francisco|CA|94102|(415) 394-1111|Piano Bars, Performing Arts
+The Boardroom|North Beach/Telegraph Hill, Russian Hill|1609 Powell St|San Francisco|CA|94133|(415) 982-8898|Bars
+Buena Vista Cafe|Fisherman's Wharf, Russian Hill|2765 Hyde St|San Francisco|CA|94109|(415) 474-5044|Bars, Breakfast & Brunch
+WOODS Polk Station|Russian Hill|2255 Polk St|San Francisco|CA|94109|(415) 483-5530|Bars
+Leopold’s|Russian Hill|2400 Polk St|San Francisco|CA|94109|(415) 474-2000|Austrian
+The Pub at Ghirardelli Square|Fisherman's Wharf, Russian Hill|851 Beach St|San Francisco|CA|94109|(415) 351-0500|Barbeque
+The Buccaneer|Russian Hill|2155 Polk St|San Francisco|CA|94109|(415) 673-8023|Dive Bars
+Union Larder|Russian Hill|1945 Hyde St|San Francisco|CA|94109|(415) 272-7567|Wine Bars
+Bacchus Wine Bar|Russian Hill|1954 Hyde St|San Francisco|CA|94109|(415) 928-2633|Wine Bars
+Northstar Cafe|North Beach/Telegraph Hill, Russian Hill|1560 Powell St|San Francisco|CA|94133|(415) 397-0577|Bars
+Rogue Ales Public House|North Beach/Telegraph Hill, Russian Hill|673 Union St|San Francisco|CA|94133|(415) 362-7880|Pubs
+Feinstein’s at the Nikko|Union Square|222 Mason St|San Francisco|CA|94102|(415) 394-1111|Piano Bars, Performing Arts
+The Boardroom|North Beach/Telegraph Hill, Russian Hill|1609 Powell St|San Francisco|CA|94133|(415) 982-8898|Bars
+Buena Vista Cafe|Fisherman's Wharf, Russian Hill|2765 Hyde St|San Francisco|CA|94109|(415) 474-5044|Bars, Breakfast & Brunch
+WOODS Polk Station|Russian Hill|2255 Polk St|San Francisco|CA|94109|(415) 483-5530|Bars
+Leopold’s|Russian Hill|2400 Polk St|San Francisco|CA|94109|(415) 474-2000|Austrian
+The Pub at Ghirardelli Square|Fisherman's Wharf, Russian Hill|851 Beach St|San Francisco|CA|94109|(415) 351-0500|Barbeque
+The Buccaneer|Russian Hill|2155 Polk St|San Francisco|CA|94109|(415) 673-8023|Dive Bars
+Union Larder|Russian Hill|1945 Hyde St|San Francisco|CA|94109|(415) 272-7567|Wine Bars
+Bacchus Wine Bar|Russian Hill|1954 Hyde St|San Francisco|CA|94109|(415) 928-2633|Wine Bars
+Northstar Cafe|North Beach/Telegraph Hill, Russian Hill|1560 Powell St|San Francisco|CA|94133|(415) 397-0577|Bars
+Rogue Ales Public House|North Beach/Telegraph Hill, Russian Hill|673 Union St|San Francisco|CA|94133|(415) 362-7880|Pubs
+Feinstein’s at the Nikko|Union Square|222 Mason St|San Francisco|CA|94102|(415) 394-1111|Piano Bars, Performing Arts
+The Boardroom|North Beach/Telegraph Hill, Russian Hill|1609 Powell St|San Francisco|CA|94133|(415) 982-8898|Bars
+Buena Vista Cafe|Fisherman's Wharf, Russian Hill|2765 Hyde St|San Francisco|CA|94109|(415) 474-5044|Bars, Breakfast & Brunch
+WOODS Polk Station|Russian Hill|2255 Polk St|San Francisco|CA|94109|(415) 483-5530|Bars
+Leopold’s|Russian Hill|2400 Polk St|San Francisco|CA|94109|(415) 474-2000|Austrian
+The Pub at Ghirardelli Square|Fisherman's Wharf, Russian Hill|851 Beach St|San Francisco|CA|94109|(415) 351-0500|Barbeque
+The Buccaneer|Russian Hill|2155 Polk St|San Francisco|CA|94109|(415) 673-8023|Dive Bars
+Union Larder|Russian Hill|1945 Hyde St|San Francisco|CA|94109|(415) 272-7567|Wine Bars
+Bacchus Wine Bar|Russian Hill|1954 Hyde St|San Francisco|CA|94109|(415) 928-2633|Wine Bars
+Northstar Cafe|North Beach/Telegraph Hill, Russian Hill|1560 Powell St|San Francisco|CA|94133|(415) 397-0577|Bars
+Rogue Ales Public House|North Beach/Telegraph Hill, Russian Hill|673 Union St|San Francisco|CA|94133|(415) 362-7880|Pubs
+Feinstein’s at the Nikko|Union Square|222 Mason St|San Francisco|CA|94102|(415) 394-1111|Piano Bars, Performing Arts
+The Boardroom|North Beach/Telegraph Hill, Russian Hill|1609 Powell St|San Francisco|CA|94133|(415) 982-8898|Bars
+Buena Vista Cafe|Fisherman's Wharf, Russian Hill|2765 Hyde St|San Francisco|CA|94109|(415) 474-5044|Bars, Breakfast & Brunch
+WOODS Polk Station|Russian Hill|2255 Polk St|San Francisco|CA|94109|(415) 483-5530|Bars
+Leopold’s|Russian Hill|2400 Polk St|San Francisco|CA|94109|(415) 474-2000|Austrian
+The Pub at Ghirardelli Square|Fisherman's Wharf, Russian Hill|851 Beach St|San Francisco|CA|94109|(415) 351-0500|Barbeque
+The Buccaneer|Russian Hill|2155 Polk St|San Francisco|CA|94109|(415) 673-8023|Dive Bars
+Union Larder|Russian Hill|1945 Hyde St|San Francisco|CA|94109|(415) 272-7567|Wine Bars
+Bacchus Wine Bar|Russian Hill|1954 Hyde St|San Francisco|CA|94109|(415) 928-2633|Wine Bars
+Northstar Cafe|North Beach/Telegraph Hill, Russian Hill|1560 Powell St|San Francisco|CA|94133|(415) 397-0577|Bars
+Rogue Ales Public House|North Beach/Telegraph Hill, Russian Hill|673 Union St|San Francisco|CA|94133|(415) 362-7880|Pubs
+Feinstein’s at the Nikko|Union Square|222 Mason St|San Francisco|CA|94102|(415) 394-1111|Piano Bars, Performing Arts
+Alchemist Bar & Lounge|SoMa, South Beach|679 3rd St|San Francisco|CA|94107|(415) 746-9968|Lounges
+83 Proof|Financial District, SoMa|83 1st St|San Francisco|CA|94105|(415) 296-8383|Bars
+Bloodhound|SoMa|1145 Folsom St|San Francisco|CA|94103|(415) 863-2840|Cocktail Bars
+Driftwood|SoMa|1225 Folsom St|San Francisco|CA|94105||Lounges
+Local Edition|Financial District, SoMa|691 Market St|San Francisco|CA|94105|(415) 795-1375|Lounges
+Tempest|SoMa|431 Natoma St|San Francisco|CA|94103|(415) 495-1863|American (Traditional)
+Oddjob|SoMa|1337 Mission St|San Francisco|CA|94103|(650) 787-2432|Cocktail Bars
+The View|Financial District, SoMa|780 Mission St|San Francisco|CA|94103|(415) 442-6003|Lounges
+Novela|Financial District, SoMa|662 Mission St|San Francisco|CA|94105|(415) 896-6500|Cocktail Bars
+Jamber|SoMa|858 Folsom St|San Francisco|CA|94107|(415) 273-9192|Wine Bars, Pubs
+Feinstein’s at the Nikko|Union Square|222 Mason St|San Francisco|CA|94102|(415) 394-1111|Piano Bars, Performing Arts
+Alchemist Bar & Lounge|SoMa, South Beach|679 3rd St|San Francisco|CA|94107|(415) 746-9968|Lounges
+83 Proof|Financial District, SoMa|83 1st St|San Francisco|CA|94105|(415) 296-8383|Bars
+Bloodhound|SoMa|1145 Folsom St|San Francisco|CA|94103|(415) 863-2840|Cocktail Bars
+Driftwood|SoMa|1225 Folsom St|San Francisco|CA|94105||Lounges
+Local Edition|Financial District, SoMa|691 Market St|San Francisco|CA|94105|(415) 795-1375|Lounges
+Tempest|SoMa|431 Natoma St|San Francisco|CA|94103|(415) 495-1863|American (Traditional)
+Oddjob|SoMa|1337 Mission St|San Francisco|CA|94103|(650) 787-2432|Cocktail Bars
+The View|Financial District, SoMa|780 Mission St|San Francisco|CA|94103|(415) 442-6003|Lounges
+Novela|Financial District, SoMa|662 Mission St|San Francisco|CA|94105|(415) 896-6500|Cocktail Bars
+Jamber|SoMa|858 Folsom St|San Francisco|CA|94107|(415) 273-9192|Wine Bars, Pubs
+Feinstein’s at the Nikko|Union Square|222 Mason St|San Francisco|CA|94102|(415) 394-1111|Piano Bars, Performing Arts
+Alchemist Bar & Lounge|SoMa, South Beach|679 3rd St|San Francisco|CA|94107|(415) 746-9968|Lounges
+83 Proof|Financial District, SoMa|83 1st St|San Francisco|CA|94105|(415) 296-8383|Bars
+Bloodhound|SoMa|1145 Folsom St|San Francisco|CA|94103|(415) 863-2840|Cocktail Bars
+Driftwood|SoMa|1225 Folsom St|San Francisco|CA|94105||Lounges
+Local Edition|Financial District, SoMa|691 Market St|San Francisco|CA|94105|(415) 795-1375|Lounges
+Tempest|SoMa|431 Natoma St|San Francisco|CA|94103|(415) 495-1863|American (Traditional)
+Oddjob|SoMa|1337 Mission St|San Francisco|CA|94103|(650) 787-2432|Cocktail Bars
+The View|Financial District, SoMa|780 Mission St|San Francisco|CA|94103|(415) 442-6003|Lounges
+Novela|Financial District, SoMa|662 Mission St|San Francisco|CA|94105|(415) 896-6500|Cocktail Bars
+Jamber|SoMa|858 Folsom St|San Francisco|CA|94107|(415) 273-9192|Wine Bars, Pubs
+Feinstein’s at the Nikko|Union Square|222 Mason St|San Francisco|CA|94102|(415) 394-1111|Piano Bars, Performing Arts
+Alchemist Bar & Lounge|SoMa, South Beach|679 3rd St|San Francisco|CA|94107|(415) 746-9968|Lounges
+83 Proof|Financial District, SoMa|83 1st St|San Francisco|CA|94105|(415) 296-8383|Bars
+Bloodhound|SoMa|1145 Folsom St|San Francisco|CA|94103|(415) 863-2840|Cocktail Bars
+Driftwood|SoMa|1225 Folsom St|San Francisco|CA|94105||Lounges
+Local Edition|Financial District, SoMa|691 Market St|San Francisco|CA|94105|(415) 795-1375|Lounges
+Tempest|SoMa|431 Natoma St|San Francisco|CA|94103|(415) 495-1863|American (Traditional)
+Oddjob|SoMa|1337 Mission St|San Francisco|CA|94103|(650) 787-2432|Cocktail Bars
+The View|Financial District, SoMa|780 Mission St|San Francisco|CA|94103|(415) 442-6003|Lounges
+Novela|Financial District, SoMa|662 Mission St|San Francisco|CA|94105|(415) 896-6500|Cocktail Bars
+Jamber|SoMa|858 Folsom St|San Francisco|CA|94107|(415) 273-9192|Wine Bars, Pubs
+Feinstein’s at the Nikko|Union Square|222 Mason St|San Francisco|CA|94102|(415) 394-1111|Piano Bars, Performing Arts
+Alchemist Bar & Lounge|SoMa, South Beach|679 3rd St|San Francisco|CA|94107|(415) 746-9968|Lounges
+83 Proof|Financial District, SoMa|83 1st St|San Francisco|CA|94105|(415) 296-8383|Bars
+Bloodhound|SoMa|1145 Folsom St|San Francisco|CA|94103|(415) 863-2840|Cocktail Bars
+Driftwood|SoMa|1225 Folsom St|San Francisco|CA|94105||Lounges
+Local Edition|Financial District, SoMa|691 Market St|San Francisco|CA|94105|(415) 795-1375|Lounges
+Tempest|SoMa|431 Natoma St|San Francisco|CA|94103|(415) 495-1863|American (Traditional)
+Oddjob|SoMa|1337 Mission St|San Francisco|CA|94103|(650) 787-2432|Cocktail Bars
+The View|Financial District, SoMa|780 Mission St|San Francisco|CA|94103|(415) 442-6003|Lounges
+Novela|Financial District, SoMa|662 Mission St|San Francisco|CA|94105|(415) 896-6500|Cocktail Bars
+Jamber|SoMa|858 Folsom St|San Francisco|CA|94107|(415) 273-9192|Wine Bars, Pubs
+Feinstein’s at the Nikko|Union Square|222 Mason St|San Francisco|CA|94102|(415) 394-1111|Piano Bars, Performing Arts
+Alchemist Bar & Lounge|SoMa, South Beach|679 3rd St|San Francisco|CA|94107|(415) 746-9968|Lounges
+83 Proof|Financial District, SoMa|83 1st St|San Francisco|CA|94105|(415) 296-8383|Bars
+Bloodhound|SoMa|1145 Folsom St|San Francisco|CA|94103|(415) 863-2840|Cocktail Bars
+Driftwood|SoMa|1225 Folsom St|San Francisco|CA|94105||Lounges
+Local Edition|Financial District, SoMa|691 Market St|San Francisco|CA|94105|(415) 795-1375|Lounges
+Tempest|SoMa|431 Natoma St|San Francisco|CA|94103|(415) 495-1863|American (Traditional)
+Oddjob|SoMa|1337 Mission St|San Francisco|CA|94103|(650) 787-2432|Cocktail Bars
+The View|Financial District, SoMa|780 Mission St|San Francisco|CA|94103|(415) 442-6003|Lounges
+Novela|Financial District, SoMa|662 Mission St|San Francisco|CA|94105|(415) 896-6500|Cocktail Bars
+Jamber|SoMa|858 Folsom St|San Francisco|CA|94107|(415) 273-9192|Wine Bars, Pubs
+Feinstein’s at the Nikko|Union Square|222 Mason St|San Francisco|CA|94102|(415) 394-1111|Piano Bars, Performing Arts
+Alchemist Bar & Lounge|SoMa, South Beach|679 3rd St|San Francisco|CA|94107|(415) 746-9968|Lounges
+83 Proof|Financial District, SoMa|83 1st St|San Francisco|CA|94105|(415) 296-8383|Bars
+Bloodhound|SoMa|1145 Folsom St|San Francisco|CA|94103|(415) 863-2840|Cocktail Bars
+Driftwood|SoMa|1225 Folsom St|San Francisco|CA|94105||Lounges
+Local Edition|Financial District, SoMa|691 Market St|San Francisco|CA|94105|(415) 795-1375|Lounges
+Tempest|SoMa|431 Natoma St|San Francisco|CA|94103|(415) 495-1863|American (Traditional)
+Oddjob|SoMa|1337 Mission St|San Francisco|CA|94103|(650) 787-2432|Cocktail Bars
+The View|Financial District, SoMa|780 Mission St|San Francisco|CA|94103|(415) 442-6003|Lounges
+Novela|Financial District, SoMa|662 Mission St|San Francisco|CA|94105|(415) 896-6500|Cocktail Bars
+Jamber|SoMa|858 Folsom St|San Francisco|CA|94107|(415) 273-9192|Wine Bars, Pubs
+Feinstein’s at the Nikko|Union Square|222 Mason St|San Francisco|CA|94102|(415) 394-1111|Piano Bars, Performing Arts
+Alchemist Bar & Lounge|SoMa, South Beach|679 3rd St|San Francisco|CA|94107|(415) 746-9968|Lounges
+83 Proof|Financial District, SoMa|83 1st St|San Francisco|CA|94105|(415) 296-8383|Bars
+Bloodhound|SoMa|1145 Folsom St|San Francisco|CA|94103|(415) 863-2840|Cocktail Bars
+Driftwood|SoMa|1225 Folsom St|San Francisco|CA|94105||Lounges
+Local Edition|Financial District, SoMa|691 Market St|San Francisco|CA|94105|(415) 795-1375|Lounges
+Tempest|SoMa|431 Natoma St|San Francisco|CA|94103|(415) 495-1863|American (Traditional)
+Oddjob|SoMa|1337 Mission St|San Francisco|CA|94103|(650) 787-2432|Cocktail Bars
+The View|Financial District, SoMa|780 Mission St|San Francisco|CA|94103|(415) 442-6003|Lounges
+Novela|Financial District, SoMa|662 Mission St|San Francisco|CA|94105|(415) 896-6500|Cocktail Bars
+Jamber|SoMa|858 Folsom St|San Francisco|CA|94107|(415) 273-9192|Wine Bars, Pubs
+Feinstein’s at the Nikko|Union Square|222 Mason St|San Francisco|CA|94102|(415) 394-1111|Piano Bars, Performing Arts
+Alchemist Bar & Lounge|SoMa, South Beach|679 3rd St|San Francisco|CA|94107|(415) 746-9968|Lounges
+83 Proof|Financial District, SoMa|83 1st St|San Francisco|CA|94105|(415) 296-8383|Bars
+Bloodhound|SoMa|1145 Folsom St|San Francisco|CA|94103|(415) 863-2840|Cocktail Bars
+Driftwood|SoMa|1225 Folsom St|San Francisco|CA|94105||Lounges
+Local Edition|Financial District, SoMa|691 Market St|San Francisco|CA|94105|(415) 795-1375|Lounges
+Tempest|SoMa|431 Natoma St|San Francisco|CA|94103|(415) 495-1863|American (Traditional)
+Oddjob|SoMa|1337 Mission St|San Francisco|CA|94103|(650) 787-2432|Cocktail Bars
+The View|Financial District, SoMa|780 Mission St|San Francisco|CA|94103|(415) 442-6003|Lounges
+Novela|Financial District, SoMa|662 Mission St|San Francisco|CA|94105|(415) 896-6500|Cocktail Bars
+Jamber|SoMa|858 Folsom St|San Francisco|CA|94107|(415) 273-9192|Wine Bars, Pubs
+Hawthorn|Financial District, Union Square|46 Geary St|San Francisco|CA|94108|(415) 693-9255|Cocktail Bars
+Alchemist Bar & Lounge|SoMa, South Beach|679 3rd St|San Francisco|CA|94107|(415) 746-9968|Lounges
+Woodbury|SoMa, South Beach|685 3rd St|San Francisco|CA|94107||Pubs, Cocktail Bars
+Hi Dive|Embarcadero, SoMa, South Beach|The Embarcadero & Bryant St|San Francisco|CA|94105|(415) 977-0170|Dive Bars, American (Traditional)
+Perry’s|Embarcadero, Financial District, SoMa, South Beach|155 Steuart St|San Francisco|CA|94105|(415) 495-6500|American (Traditional)
+Pete’s Tavern|SoMa, South Beach|128 King St|San Francisco|CA|94107|(415) 817-5040|Sports Bars, Venues & Event Spaces
+Public House|SoMa, South Beach|24 Willie Mays Plz|San Francisco|CA|94107|(415) 644-0240|Sports Bars
+Wine & Wall|Financial District, SoMa, South Beach|30 Steuart St|San Francisco|CA|94105|(415) 243-9463|Beer, Wine & Spirits, Wine Bars
+Polo Grounds|SoMa, South Beach|747 3rd St|San Francisco|CA|94107|(415) 777-1177|Sports Bars
+MoMo’s|SoMa, South Beach|760 2nd St|San Francisco|CA|94107|(415) 227-8660|American (New)
+Tres Tequila Lounge & Mexican Kitchen|SoMa, South Beach|130 Townsend St|San Francisco|CA|94107|(415) 227-0500|Mexican, Breakfast & Brunch
+Hawthorn|Financial District, Union Square|46 Geary St|San Francisco|CA|94108|(415) 693-9255|Cocktail Bars
+Alchemist Bar & Lounge|SoMa, South Beach|679 3rd St|San Francisco|CA|94107|(415) 746-9968|Lounges
+Woodbury|SoMa, South Beach|685 3rd St|San Francisco|CA|94107||Pubs, Cocktail Bars
+Hi Dive|Embarcadero, SoMa, South Beach|The Embarcadero & Bryant St|San Francisco|CA|94105|(415) 977-0170|Dive Bars, American (Traditional)
+Perry’s|Embarcadero, Financial District, SoMa, South Beach|155 Steuart St|San Francisco|CA|94105|(415) 495-6500|American (Traditional)
+Pete’s Tavern|SoMa, South Beach|128 King St|San Francisco|CA|94107|(415) 817-5040|Sports Bars, Venues & Event Spaces
+Public House|SoMa, South Beach|24 Willie Mays Plz|San Francisco|CA|94107|(415) 644-0240|Sports Bars
+Wine & Wall|Financial District, SoMa, South Beach|30 Steuart St|San Francisco|CA|94105|(415) 243-9463|Beer, Wine & Spirits, Wine Bars
+Polo Grounds|SoMa, South Beach|747 3rd St|San Francisco|CA|94107|(415) 777-1177|Sports Bars
+MoMo’s|SoMa, South Beach|760 2nd St|San Francisco|CA|94107|(415) 227-8660|American (New)
+Tres Tequila Lounge & Mexican Kitchen|SoMa, South Beach|130 Townsend St|San Francisco|CA|94107|(415) 227-0500|Mexican, Breakfast & Brunch
+Hawthorn|Financial District, Union Square|46 Geary St|San Francisco|CA|94108|(415) 693-9255|Cocktail Bars
+Alchemist Bar & Lounge|SoMa, South Beach|679 3rd St|San Francisco|CA|94107|(415) 746-9968|Lounges
+Woodbury|SoMa, South Beach|685 3rd St|San Francisco|CA|94107||Pubs, Cocktail Bars
+Hi Dive|Embarcadero, SoMa, South Beach|The Embarcadero & Bryant St|San Francisco|CA|94105|(415) 977-0170|Dive Bars, American (Traditional)
+Perry’s|Embarcadero, Financial District, SoMa, South Beach|155 Steuart St|San Francisco|CA|94105|(415) 495-6500|American (Traditional)
+Pete’s Tavern|SoMa, South Beach|128 King St|San Francisco|CA|94107|(415) 817-5040|Sports Bars, Venues & Event Spaces
+Public House|SoMa, South Beach|24 Willie Mays Plz|San Francisco|CA|94107|(415) 644-0240|Sports Bars
+Wine & Wall|Financial District, SoMa, South Beach|30 Steuart St|San Francisco|CA|94105|(415) 243-9463|Beer, Wine & Spirits, Wine Bars
+Polo Grounds|SoMa, South Beach|747 3rd St|San Francisco|CA|94107|(415) 777-1177|Sports Bars
+MoMo’s|SoMa, South Beach|760 2nd St|San Francisco|CA|94107|(415) 227-8660|American (New)
+Tres Tequila Lounge & Mexican Kitchen|SoMa, South Beach|130 Townsend St|San Francisco|CA|94107|(415) 227-0500|Mexican, Breakfast & Brunch
+Velvet Cantina|Mission|3349 23rd St|San Francisco|CA|94110|(415) 648-4142|Mexican
+Olive Garden Italian Restaurant|Stonestown|3251 20th Ave|San Francisco|CA|94132|(415) 661-6770|Italian, Wine Bars
+Amélie|Nob Hill|1754 Polk St|San Francisco|CA|94109|(415) 292-6916|Wine Bars, French
+Friends Bar|Sunnyside, Outer Mission|558 Monterey Blvd|San Francisco|CA|94127|(415) 999-1338|Dive Bars
+Noir Lounge|Hayes Valley|581 Hayes St|San Francisco|CA|94102|(415) 431-6647|Wine Bars, American (Traditional)
+Whiskey Thieves|Tenderloin|839 Geary St|San Francisco|CA|94109|(415) 506-8331|Bars
+Bourbon & Branch|Tenderloin|501 Jones St|San Francisco|CA|94102|(415) 346-1735|Bars
+Emperor Norton’s Boozeland|Tenderloin|510 Larkin St|San Francisco|CA|94102|(415) 926-8118|Bars
+Amsterdam Café|Tenderloin|937 Geary St|San Francisco|CA|94109||Bars
+The Basement|Tenderloin|222 Hyde St|San Francisco|CA|94102|(415) 742-7222|Lounges, Dance Clubs
+Wilson & Wilson|Tenderloin|505 Jones St|San Francisco|CA|94102||Lounges
+21 Club|Tenderloin, Union Square|98 Turk St|San Francisco|CA|94102|(415) 771-9655|Dive Bars
+Chambers|Tenderloin|601 Eddy St|San Francisco|CA|94109|(415) 496-5178|American (New)
+Tradition|Tenderloin|441 Jones St|San Francisco|CA|94102|(415) 474-2284|Cocktail Bars
+PianoFight|Tenderloin, Union Square|144 Taylor St|San Francisco|CA|94102|(415) 816-3691|Bars, Performing Arts
+Noir Lounge|Hayes Valley|581 Hayes St|San Francisco|CA|94102|(415) 431-6647|Wine Bars, American (Traditional)
+Whiskey Thieves|Tenderloin|839 Geary St|San Francisco|CA|94109|(415) 506-8331|Bars
+Bourbon & Branch|Tenderloin|501 Jones St|San Francisco|CA|94102|(415) 346-1735|Bars
+Emperor Norton’s Boozeland|Tenderloin|510 Larkin St|San Francisco|CA|94102|(415) 926-8118|Bars
+Amsterdam Café|Tenderloin|937 Geary St|San Francisco|CA|94109||Bars
+The Basement|Tenderloin|222 Hyde St|San Francisco|CA|94102|(415) 742-7222|Lounges, Dance Clubs
+Wilson & Wilson|Tenderloin|505 Jones St|San Francisco|CA|94102||Lounges
+21 Club|Tenderloin, Union Square|98 Turk St|San Francisco|CA|94102|(415) 771-9655|Dive Bars
+Chambers|Tenderloin|601 Eddy St|San Francisco|CA|94109|(415) 496-5178|American (New)
+Tradition|Tenderloin|441 Jones St|San Francisco|CA|94102|(415) 474-2284|Cocktail Bars
+PianoFight|Tenderloin, Union Square|144 Taylor St|San Francisco|CA|94102|(415) 816-3691|Bars, Performing Arts
+Noir Lounge|Hayes Valley|581 Hayes St|San Francisco|CA|94102|(415) 431-6647|Wine Bars, American (Traditional)
+Whiskey Thieves|Tenderloin|839 Geary St|San Francisco|CA|94109|(415) 506-8331|Bars
+Bourbon & Branch|Tenderloin|501 Jones St|San Francisco|CA|94102|(415) 346-1735|Bars
+Emperor Norton’s Boozeland|Tenderloin|510 Larkin St|San Francisco|CA|94102|(415) 926-8118|Bars
+Amsterdam Café|Tenderloin|937 Geary St|San Francisco|CA|94109||Bars
+The Basement|Tenderloin|222 Hyde St|San Francisco|CA|94102|(415) 742-7222|Lounges, Dance Clubs
+Wilson & Wilson|Tenderloin|505 Jones St|San Francisco|CA|94102||Lounges
+21 Club|Tenderloin, Union Square|98 Turk St|San Francisco|CA|94102|(415) 771-9655|Dive Bars
+Chambers|Tenderloin|601 Eddy St|San Francisco|CA|94109|(415) 496-5178|American (New)
+Tradition|Tenderloin|441 Jones St|San Francisco|CA|94102|(415) 474-2284|Cocktail Bars
+PianoFight|Tenderloin, Union Square|144 Taylor St|San Francisco|CA|94102|(415) 816-3691|Bars, Performing Arts
+Noir Lounge|Hayes Valley|581 Hayes St|San Francisco|CA|94102|(415) 431-6647|Wine Bars, American (Traditional)
+Whiskey Thieves|Tenderloin|839 Geary St|San Francisco|CA|94109|(415) 506-8331|Bars
+Bourbon & Branch|Tenderloin|501 Jones St|San Francisco|CA|94102|(415) 346-1735|Bars
+Emperor Norton’s Boozeland|Tenderloin|510 Larkin St|San Francisco|CA|94102|(415) 926-8118|Bars
+Amsterdam Café|Tenderloin|937 Geary St|San Francisco|CA|94109||Bars
+The Basement|Tenderloin|222 Hyde St|San Francisco|CA|94102|(415) 742-7222|Lounges, Dance Clubs
+Wilson & Wilson|Tenderloin|505 Jones St|San Francisco|CA|94102||Lounges
+21 Club|Tenderloin, Union Square|98 Turk St|San Francisco|CA|94102|(415) 771-9655|Dive Bars
+Chambers|Tenderloin|601 Eddy St|San Francisco|CA|94109|(415) 496-5178|American (New)
+Tradition|Tenderloin|441 Jones St|San Francisco|CA|94102|(415) 474-2284|Cocktail Bars
+PianoFight|Tenderloin, Union Square|144 Taylor St|San Francisco|CA|94102|(415) 816-3691|Bars, Performing Arts
+Noir Lounge|Hayes Valley|581 Hayes St|San Francisco|CA|94102|(415) 431-6647|Wine Bars, American (Traditional)
+Whiskey Thieves|Tenderloin|839 Geary St|San Francisco|CA|94109|(415) 506-8331|Bars
+Bourbon & Branch|Tenderloin|501 Jones St|San Francisco|CA|94102|(415) 346-1735|Bars
+Emperor Norton’s Boozeland|Tenderloin|510 Larkin St|San Francisco|CA|94102|(415) 926-8118|Bars
+Amsterdam Café|Tenderloin|937 Geary St|San Francisco|CA|94109||Bars
+The Basement|Tenderloin|222 Hyde St|San Francisco|CA|94102|(415) 742-7222|Lounges, Dance Clubs
+Wilson & Wilson|Tenderloin|505 Jones St|San Francisco|CA|94102||Lounges
+21 Club|Tenderloin, Union Square|98 Turk St|San Francisco|CA|94102|(415) 771-9655|Dive Bars
+Chambers|Tenderloin|601 Eddy St|San Francisco|CA|94109|(415) 496-5178|American (New)
+Tradition|Tenderloin|441 Jones St|San Francisco|CA|94102|(415) 474-2284|Cocktail Bars
+PianoFight|Tenderloin, Union Square|144 Taylor St|San Francisco|CA|94102|(415) 816-3691|Bars, Performing Arts
+Velvet Cantina|Mission|3349 23rd St|San Francisco|CA|94110|(415) 648-4142|Mexican
+The Alembic|The Haight|1725 Haight St|San Francisco|CA|94117|(415) 666-0822|Bars
+Hobson’s Choice|The Haight|1601 Haight St|San Francisco|CA|94117|(415) 621-5859|Bars
+Zam Zam|The Haight|1633 Haight St|San Francisco|CA|94117|(415) 861-2545|Bars
+Gold Cane Cocktail Lounge|The Haight|1569 Haight St|San Francisco|CA|94117|(415) 626-1112|Dive Bars
+Magnolia Pub & Brewery|The Haight|1398 Haight St|San Francisco|CA|94117|(415) 864-7468|Pubs, Breakfast & Brunch
+Laguna Cafe|The Haight|1821 Haight St|San Francisco|CA|94117|(415) 751-1970|Hookah Bars
+Murio’s Trophy Room|The Haight|1811 Haight St|San Francisco|CA|94117|(415) 752-2971|Dive Bars
+Martin Macks|The Haight|1568 Haight St|San Francisco|CA|94117|(415) 861-1586|Irish, Gastropubs
+The Milk Bar|The Haight|1840 Haight St|San Francisco|CA|94117|(415) 387-6455|Dance Clubs, Cocktail Bars
+Trax|The Haight|1437 Haight St|San Francisco|CA|94117|(415) 864-4213|Gay Bars
+Velvet Cantina|Mission|3349 23rd St|San Francisco|CA|94110|(415) 648-4142|Mexican
+The Alembic|The Haight|1725 Haight St|San Francisco|CA|94117|(415) 666-0822|Bars
+Hobson’s Choice|The Haight|1601 Haight St|San Francisco|CA|94117|(415) 621-5859|Bars
+Zam Zam|The Haight|1633 Haight St|San Francisco|CA|94117|(415) 861-2545|Bars
+Gold Cane Cocktail Lounge|The Haight|1569 Haight St|San Francisco|CA|94117|(415) 626-1112|Dive Bars
+Magnolia Pub & Brewery|The Haight|1398 Haight St|San Francisco|CA|94117|(415) 864-7468|Pubs, Breakfast & Brunch
+Laguna Cafe|The Haight|1821 Haight St|San Francisco|CA|94117|(415) 751-1970|Hookah Bars
+Murio’s Trophy Room|The Haight|1811 Haight St|San Francisco|CA|94117|(415) 752-2971|Dive Bars
+Martin Macks|The Haight|1568 Haight St|San Francisco|CA|94117|(415) 861-1586|Irish, Gastropubs
+The Milk Bar|The Haight|1840 Haight St|San Francisco|CA|94117|(415) 387-6455|Dance Clubs, Cocktail Bars
+Trax|The Haight|1437 Haight St|San Francisco|CA|94117|(415) 864-4213|Gay Bars
+Smokestack|Dogpatch, Potrero Hill|2505 3rd St|San Francisco|CA|94107|(415) 864-7468|Bars, Barbeque
+Hopwater Distribution|Nob Hill, Union Square, Lower Nob Hill|850 Bush St|San Francisco|CA|94108||Pubs
+Cantina|Union Square|580 Sutter St|San Francisco|CA|94102|(415) 398-0195|Lounges
+Burritt Room + Tavern|Union Square|417 Stockton St|San Francisco|CA|94108|(415) 400-0561|Lounges
+Hawthorn|Financial District, Union Square|46 Geary St|San Francisco|CA|94108|(415) 693-9255|Cocktail Bars
+Press Club|Financial District, SoMa, Union Square|20 Yerba Buena Ln|San Francisco|CA|94103|(415) 744-5000|Wine Bars
+21 Club|Tenderloin, Union Square|98 Turk St|San Francisco|CA|94102|(415) 771-9655|Dive Bars
+Tunnel Top|Financial District, Union Square|601 Bush St|San Francisco|CA|94108|(415) 722-6620|Lounges, Music Venues
+PianoFight|Tenderloin, Union Square|144 Taylor St|San Francisco|CA|94102|(415) 816-3691|Bars, Performing Arts
+Romper Room|Financial District, Union Square|25 Maiden Ln|San Francisco|CA|94108|(415) 275-3418|Cocktail Bars
+Dave’s|Financial District, SoMa, Union Square|29 3rd St|San Francisco|CA|94103|(415) 495-6726|Dive Bars
+Smokestack|Dogpatch, Potrero Hill|2505 3rd St|San Francisco|CA|94107|(415) 864-7468|Bars, Barbeque
+Hopwater Distribution|Nob Hill, Union Square, Lower Nob Hill|850 Bush St|San Francisco|CA|94108||Pubs
+Cantina|Union Square|580 Sutter St|San Francisco|CA|94102|(415) 398-0195|Lounges
+Burritt Room + Tavern|Union Square|417 Stockton St|San Francisco|CA|94108|(415) 400-0561|Lounges
+Hawthorn|Financial District, Union Square|46 Geary St|San Francisco|CA|94108|(415) 693-9255|Cocktail Bars
+Press Club|Financial District, SoMa, Union Square|20 Yerba Buena Ln|San Francisco|CA|94103|(415) 744-5000|Wine Bars
+21 Club|Tenderloin, Union Square|98 Turk St|San Francisco|CA|94102|(415) 771-9655|Dive Bars
+Tunnel Top|Financial District, Union Square|601 Bush St|San Francisco|CA|94108|(415) 722-6620|Lounges, Music Venues
+PianoFight|Tenderloin, Union Square|144 Taylor St|San Francisco|CA|94102|(415) 816-3691|Bars, Performing Arts
+Romper Room|Financial District, Union Square|25 Maiden Ln|San Francisco|CA|94108|(415) 275-3418|Cocktail Bars
+Dave’s|Financial District, SoMa, Union Square|29 3rd St|San Francisco|CA|94103|(415) 495-6726|Dive Bars
+Smokestack|Dogpatch, Potrero Hill|2505 3rd St|San Francisco|CA|94107|(415) 864-7468|Bars, Barbeque
+Hopwater Distribution|Nob Hill, Union Square, Lower Nob Hill|850 Bush St|San Francisco|CA|94108||Pubs
+Cantina|Union Square|580 Sutter St|San Francisco|CA|94102|(415) 398-0195|Lounges
+Burritt Room + Tavern|Union Square|417 Stockton St|San Francisco|CA|94108|(415) 400-0561|Lounges
+Hawthorn|Financial District, Union Square|46 Geary St|San Francisco|CA|94108|(415) 693-9255|Cocktail Bars
+Press Club|Financial District, SoMa, Union Square|20 Yerba Buena Ln|San Francisco|CA|94103|(415) 744-5000|Wine Bars
+21 Club|Tenderloin, Union Square|98 Turk St|San Francisco|CA|94102|(415) 771-9655|Dive Bars
+Tunnel Top|Financial District, Union Square|601 Bush St|San Francisco|CA|94108|(415) 722-6620|Lounges, Music Venues
+PianoFight|Tenderloin, Union Square|144 Taylor St|San Francisco|CA|94102|(415) 816-3691|Bars, Performing Arts
+Romper Room|Financial District, Union Square|25 Maiden Ln|San Francisco|CA|94108|(415) 275-3418|Cocktail Bars
+Dave’s|Financial District, SoMa, Union Square|29 3rd St|San Francisco|CA|94103|(415) 495-6726|Dive Bars
+Smokestack|Dogpatch, Potrero Hill|2505 3rd St|San Francisco|CA|94107|(415) 864-7468|Bars, Barbeque
+Hopwater Distribution|Nob Hill, Union Square, Lower Nob Hill|850 Bush St|San Francisco|CA|94108||Pubs
+Cantina|Union Square|580 Sutter St|San Francisco|CA|94102|(415) 398-0195|Lounges
+Burritt Room + Tavern|Union Square|417 Stockton St|San Francisco|CA|94108|(415) 400-0561|Lounges
+Hawthorn|Financial District, Union Square|46 Geary St|San Francisco|CA|94108|(415) 693-9255|Cocktail Bars
+Press Club|Financial District, SoMa, Union Square|20 Yerba Buena Ln|San Francisco|CA|94103|(415) 744-5000|Wine Bars
+21 Club|Tenderloin, Union Square|98 Turk St|San Francisco|CA|94102|(415) 771-9655|Dive Bars
+Tunnel Top|Financial District, Union Square|601 Bush St|San Francisco|CA|94108|(415) 722-6620|Lounges, Music Venues
+PianoFight|Tenderloin, Union Square|144 Taylor St|San Francisco|CA|94102|(415) 816-3691|Bars, Performing Arts
+Romper Room|Financial District, Union Square|25 Maiden Ln|San Francisco|CA|94108|(415) 275-3418|Cocktail Bars
+Dave’s|Financial District, SoMa, Union Square|29 3rd St|San Francisco|CA|94103|(415) 495-6726|Dive Bars
+Smokestack|Dogpatch, Potrero Hill|2505 3rd St|San Francisco|CA|94107|(415) 864-7468|Bars, Barbeque
+Hopwater Distribution|Nob Hill, Union Square, Lower Nob Hill|850 Bush St|San Francisco|CA|94108||Pubs
+Cantina|Union Square|580 Sutter St|San Francisco|CA|94102|(415) 398-0195|Lounges
+Burritt Room + Tavern|Union Square|417 Stockton St|San Francisco|CA|94108|(415) 400-0561|Lounges
+Hawthorn|Financial District, Union Square|46 Geary St|San Francisco|CA|94108|(415) 693-9255|Cocktail Bars
+Press Club|Financial District, SoMa, Union Square|20 Yerba Buena Ln|San Francisco|CA|94103|(415) 744-5000|Wine Bars
+21 Club|Tenderloin, Union Square|98 Turk St|San Francisco|CA|94102|(415) 771-9655|Dive Bars
+Tunnel Top|Financial District, Union Square|601 Bush St|San Francisco|CA|94108|(415) 722-6620|Lounges, Music Venues
+PianoFight|Tenderloin, Union Square|144 Taylor St|San Francisco|CA|94102|(415) 816-3691|Bars, Performing Arts
+Romper Room|Financial District, Union Square|25 Maiden Ln|San Francisco|CA|94108|(415) 275-3418|Cocktail Bars
+Dave’s|Financial District, SoMa, Union Square|29 3rd St|San Francisco|CA|94103|(415) 495-6726|Dive Bars
+Smokestack|Dogpatch, Potrero Hill|2505 3rd St|San Francisco|CA|94107|(415) 864-7468|Bars, Barbeque
+Hopwater Distribution|Nob Hill, Union Square, Lower Nob Hill|850 Bush St|San Francisco|CA|94108||Pubs
+Cantina|Union Square|580 Sutter St|San Francisco|CA|94102|(415) 398-0195|Lounges
+Burritt Room + Tavern|Union Square|417 Stockton St|San Francisco|CA|94108|(415) 400-0561|Lounges
+Hawthorn|Financial District, Union Square|46 Geary St|San Francisco|CA|94108|(415) 693-9255|Cocktail Bars
+Press Club|Financial District, SoMa, Union Square|20 Yerba Buena Ln|San Francisco|CA|94103|(415) 744-5000|Wine Bars
+21 Club|Tenderloin, Union Square|98 Turk St|San Francisco|CA|94102|(415) 771-9655|Dive Bars
+Tunnel Top|Financial District, Union Square|601 Bush St|San Francisco|CA|94108|(415) 722-6620|Lounges, Music Venues
+PianoFight|Tenderloin, Union Square|144 Taylor St|San Francisco|CA|94102|(415) 816-3691|Bars, Performing Arts
+Romper Room|Financial District, Union Square|25 Maiden Ln|San Francisco|CA|94108|(415) 275-3418|Cocktail Bars
+Dave’s|Financial District, SoMa, Union Square|29 3rd St|San Francisco|CA|94103|(415) 495-6726|Dive Bars
+Smokestack|Dogpatch, Potrero Hill|2505 3rd St|San Francisco|CA|94107|(415) 864-7468|Bars, Barbeque
+Hopwater Distribution|Nob Hill, Union Square, Lower Nob Hill|850 Bush St|San Francisco|CA|94108||Pubs
+Cantina|Union Square|580 Sutter St|San Francisco|CA|94102|(415) 398-0195|Lounges
+Burritt Room + Tavern|Union Square|417 Stockton St|San Francisco|CA|94108|(415) 400-0561|Lounges
+Hawthorn|Financial District, Union Square|46 Geary St|San Francisco|CA|94108|(415) 693-9255|Cocktail Bars
+Press Club|Financial District, SoMa, Union Square|20 Yerba Buena Ln|San Francisco|CA|94103|(415) 744-5000|Wine Bars
+21 Club|Tenderloin, Union Square|98 Turk St|San Francisco|CA|94102|(415) 771-9655|Dive Bars
+Tunnel Top|Financial District, Union Square|601 Bush St|San Francisco|CA|94108|(415) 722-6620|Lounges, Music Venues
+PianoFight|Tenderloin, Union Square|144 Taylor St|San Francisco|CA|94102|(415) 816-3691|Bars, Performing Arts
+Romper Room|Financial District, Union Square|25 Maiden Ln|San Francisco|CA|94108|(415) 275-3418|Cocktail Bars
+Dave’s|Financial District, SoMa, Union Square|29 3rd St|San Francisco|CA|94103|(415) 495-6726|Dive Bars
+Smokestack|Dogpatch, Potrero Hill|2505 3rd St|San Francisco|CA|94107|(415) 864-7468|Bars, Barbeque
+Hopwater Distribution|Nob Hill, Union Square, Lower Nob Hill|850 Bush St|San Francisco|CA|94108||Pubs
+Cantina|Union Square|580 Sutter St|San Francisco|CA|94102|(415) 398-0195|Lounges
+Burritt Room + Tavern|Union Square|417 Stockton St|San Francisco|CA|94108|(415) 400-0561|Lounges
+Hawthorn|Financial District, Union Square|46 Geary St|San Francisco|CA|94108|(415) 693-9255|Cocktail Bars
+Press Club|Financial District, SoMa, Union Square|20 Yerba Buena Ln|San Francisco|CA|94103|(415) 744-5000|Wine Bars
+21 Club|Tenderloin, Union Square|98 Turk St|San Francisco|CA|94102|(415) 771-9655|Dive Bars
+Tunnel Top|Financial District, Union Square|601 Bush St|San Francisco|CA|94108|(415) 722-6620|Lounges, Music Venues
+PianoFight|Tenderloin, Union Square|144 Taylor St|San Francisco|CA|94102|(415) 816-3691|Bars, Performing Arts
+Romper Room|Financial District, Union Square|25 Maiden Ln|San Francisco|CA|94108|(415) 275-3418|Cocktail Bars
+Dave’s|Financial District, SoMa, Union Square|29 3rd St|San Francisco|CA|94103|(415) 495-6726|Dive Bars
+Smokestack|Dogpatch, Potrero Hill|2505 3rd St|San Francisco|CA|94107|(415) 864-7468|Bars, Barbeque
+Hopwater Distribution|Nob Hill, Union Square, Lower Nob Hill|850 Bush St|San Francisco|CA|94108||Pubs
+Cantina|Union Square|580 Sutter St|San Francisco|CA|94102|(415) 398-0195|Lounges
+Burritt Room + Tavern|Union Square|417 Stockton St|San Francisco|CA|94108|(415) 400-0561|Lounges
+Hawthorn|Financial District, Union Square|46 Geary St|San Francisco|CA|94108|(415) 693-9255|Cocktail Bars
+Press Club|Financial District, SoMa, Union Square|20 Yerba Buena Ln|San Francisco|CA|94103|(415) 744-5000|Wine Bars
+21 Club|Tenderloin, Union Square|98 Turk St|San Francisco|CA|94102|(415) 771-9655|Dive Bars
+Tunnel Top|Financial District, Union Square|601 Bush St|San Francisco|CA|94108|(415) 722-6620|Lounges, Music Venues
+PianoFight|Tenderloin, Union Square|144 Taylor St|San Francisco|CA|94102|(415) 816-3691|Bars, Performing Arts
+Romper Room|Financial District, Union Square|25 Maiden Ln|San Francisco|CA|94108|(415) 275-3418|Cocktail Bars
+Dave’s|Financial District, SoMa, Union Square|29 3rd St|San Francisco|CA|94103|(415) 495-6726|Dive Bars
+Mars Bar & Restaurant|SoMa|798 Brannan St|San Francisco|CA|94103|(415) 621-6277|Bars
+McCarthy’s|West Portal|46 West Portal Ave|San Francisco|CA|94127|(415) 564-1412|Sports Bars
+Portal’s Tavern|West Portal|179 West Portal Ave|San Francisco|CA|94127|(415) 731-1208|Pubs
+Que Syrah|West Portal|230 W Portal Ave|San Francisco|CA|94127|(415) 731-7000|Wine Bars
+The Dubliner|West Portal|328 W Portal Ave|San Francisco|CA|94127|(415) 566-9444|Pubs
+Philosopher’s Club|West Portal|824 Ulloa St|San Francisco|CA|94127|(415) 753-0599|Dive Bars
+Mission Rock Resort|Potrero Hill|817 Terry Francois Blvd|San Francisco|CA|94158|(415) 701-7625|Seafood, Bars
+The Social Study|Fillmore, Western Addition, Lower Pacific Heights|1795 Geary Blvd|San Francisco|CA|94115|(415) 292-7417|Wine Bars
+Fat Angel|Western Addition|1740 O'Farrell St|San Francisco|CA|94115|(415) 525-3013|Wine Bars
+Crimson Lounge|Fillmore, Western Addition|687 McAllister St|San Francisco|CA|94102|(415) 673-9353|Lounges
+Zoomaak|Fillmore, Western Addition|1552 Fillmore St|San Francisco|CA|94115|(415) 441-9299|Wine Bars
+1300 on Fillmore|Fillmore, Western Addition|1300 Fillmore St|San Francisco|CA|94115|(415) 771-7100|Lounges, Venues & Event Spaces
+Tommy’s Joynt|Fillmore, Western Addition|1101 Geary Blvd|San Francisco|CA|94109|(415) 775-4216|American (Traditional), Breakfast & Brunch
+Izakaya Kou|Fillmore, Western Addition|1560 Fillmore St|San Francisco|CA|94115|(415) 441-9294|Japanese, Lounges
+Bruno’s Pizzeria Cucina|Western Addition|1375 Fillmore St|San Francisco|CA|94115|(415) 563-6300|Pizza, Sports Bars
+Astro Wine Nights SF|Anza Vista, Western Addition|Divisadero and Eddy|San Francisco|CA|94115|(978) 771-9917|Party & Event Planning, Bars
+The Rrazz Room|Fillmore, Western Addition|1000 Van Ness Ave|San Francisco|CA|94109||Jazz & Blues, Music Venues
